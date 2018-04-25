@@ -1,8 +1,10 @@
 {
   "docs": {
-    "Technology Stack": ["os_shell", "ES6_React_Javascript", "Python_n_Django", "DevOps", "Producivity_tools"],
+    "Technology Stack": ["os_shell", "ES6_React_Javascript", "Python_n_Django", "DevOps", "Producivity_tools", "Analytics", "Socialmedia_marketing"],
+    "Startup Theory": ["startup_theory"],
+
+    "Mastery Learn": ["ML_building_business", "Crowd_solving"],
     "People": ["personal_development"],
-    "Mastery Learn": ["ML_building_business", "Crowd_solving"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
