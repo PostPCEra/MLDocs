@@ -4,13 +4,7 @@ title: DevOps
 sidebar_label: DevOps
 ---
 
-## New Generation 
-
-### Postman , other one ..
-
-### expose IP to world, and watch HTTP content
-
-## Version Control
+## Version Control System VCS
 
 ### Bitbucket , github
 

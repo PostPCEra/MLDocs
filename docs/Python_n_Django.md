@@ -23,3 +23,5 @@ sidebar_label: Python & Django
  - website by those couples 
 
 ### Realworld-Django vs other Repo
+- tbd
+- Automated generation of real Swagger/OpenAPI schemas [from Django Rest Framework code](https://github.com/axnsan12/drf-yasg)
