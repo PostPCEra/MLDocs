@@ -27,3 +27,6 @@ sidebar_label: Personal Development
  
  Human history has been shaped by three major revolutions: the Cognitive Revolution (70,000 years ago), the Agricultural Revolution (10,000 years ago), and the Scientific Revolution (500 years ago). These revolutions have empowered humans to do something no other form of life has done, which is to create and connect around ideas that do not physically exist (think religion, capitalism, and politics). These shared “myths” have enabled humans to take over the globe and have put humankind on the verge of overcoming the forces of natural selection
   
+  
+## Fun things
+ - [Machine Pix](https://twitter.com/MachinePix?lang=en)
