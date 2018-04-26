@@ -12,15 +12,17 @@ sidebar_label: Theory
 
 
 ## Dream companies
-### Shopify
+### Shopify Atlasian
 
-### Atlasian
+### Pindrop
+ [voice base Auth](https://en.wikipedia.org/wiki/Pindrop) : amazing founding story of PhD students .
 
-### Forest QA
+### HeapAnalyticcs, Segment
+
+### LambdaSchool, Forest QA
 
 ### The invocie guy
 
-### HeapAnalyticcs, Segment
 
 ### tbd
 
