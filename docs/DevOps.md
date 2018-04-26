@@ -21,4 +21,4 @@ sidebar_label: DevOps
 ## CI & CD
 
 ### CI tools 
- - seems Jenkins can be used for CI
+ - Noticed many companies using Jenkins as CI tool 

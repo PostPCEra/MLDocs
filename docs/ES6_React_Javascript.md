@@ -13,8 +13,9 @@ sidebar_label: Modern JS with ES6
  
 - on `Slide #56` : use `Const` by default , Only use `Let` when rebinding is needed , no place for `var` in ES6
 
-[5 REASONS WHY ES6 ROCKS](http://orlandohamsho.com/javascript/5-reasons-es6-rocks-yo/) more reasons : 
-[Advantages of JavaScript ES6 over ES5](http://www.cuelogic.com/blog/advantages-of-javascript-es6-over-es5/)
+- [ES6 Cheat sheet](https://github.com/mbeaudru/modern-js-cheatsheet) : detailed examples for each feature
+- [5 REASONS WHY ES6 ROCKS](http://orlandohamsho.com/javascript/5-reasons-es6-rocks-yo/) 
+- [Advantages of JavaScript ES6 over ES5](http://www.cuelogic.com/blog/advantages-of-javascript-es6-over-es5/)
 
 ## React Eco System 
 
@@ -31,6 +32,19 @@ All the JS frame works Angular, Vue implemented React famous feature that is `Vi
 ### React Component Libraries 
  - [React.Rocks](https://react.rocks/?q=form) components : search by keyword out of 1000
  
+### Production ready Project code base Repos
+ - [Realword React Mobx](https://github.com/gothinkster/react-mobx-realworld-example-app)
+
+
+## JavaScript Libraries
+
+- [Javascripting.com](https://www.javascripting.com/forms/) : The definitive source of the best JavaScript libraries, frameworks, and plugins.
+
+
+## Mobx
+
+- Who is using Mobx: [Coinbase  & others using in production](https://github.com/mobxjs/mobx/issues/681)
+
 ## Real time Search
 
 [Why ElasticSearch Why not MongoDB](https://scotch.io/tutorials/build-an-airbnb-clone-with-react-and-elasticsearch?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
@@ -47,12 +61,7 @@ All the JS frame works Angular, Vue implemented React famous feature that is `Vi
  - [Appbase React UI components](https://github.com/appbaseio/reactivesearch#4-live-demos) using appbase.io & Elastic Search
  - [AirBnB clone with React](https://scotch.io/tutorials/build-an-airbnb-clone-with-react-and-elasticsearch?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : good code to learn
  
-## JavaScript Libraries
-
-- [Javascripting.com](https://www.javascripting.com/forms/) : The definitive source of the best JavaScript libraries, frameworks, and plugins.
-
-
-
+ 
 ## Other
 
  - [Project guidelines](https://github.com/elsewhencode/project-guidelines) : A set of best practices for JavaScript projects
