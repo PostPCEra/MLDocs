@@ -36,6 +36,7 @@ Shells goes here
 - OhMyZsh 
 
 
-## Nulla
-
-Nulla facilisi. Maecenas sodales nec purus eget posuere. Sed sapien quam, pretium a r Nulla facilisi. Maecenas sodales nec purus eget posuere. Sed sapien quam, pretium a r 
+## Editors
+-  Pycharm : has built-in Markdown Editor, VCS built-in (git commit/push), multi-cursor , good Python debugging `so use it `
+- VsCode, Atom, Sublime need many plug-ins and still not as good as Pycharm
+- if you are using `data intensive apps` and `graphs` may go for Spyder
