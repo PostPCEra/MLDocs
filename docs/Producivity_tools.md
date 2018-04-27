@@ -1,27 +1,38 @@
 ---
 id: Producivity_tools
-title: Producivity_tools
+title: Workplace Producivity tools
 sidebar_label: Producivity tools
 ---
 
-> Slack ($8 B valuation) and Atlasian ($12 B Marketcap) will be big players in `workplace communication & Colloboration` space. Slack needs a project management buy from somebody. Atlasian has Trello and new `stride` (Slack answer). 
-Airtable is new entrent doing all the Data Entry and workflow tasks, may be Slack will buy it in 2018 . Microsoft and Google GSuite also need Airtable .
+> "Every time there’s a platform shift, our concept of what a document is takes another step along that spectrum”  -@sschillace Founder Writely GDocs precursor
 
-> Airtable is new Slack (new Chat), by 2019 everybody will implement AirTable functionality .
-
-> BaseCamp is another great all purpose workplace tool, $99/month unlimited users, on its website it states  has 100,000 businesses as customers, so $10 M/month revenue, $120 M/year. It is very unique business model offering $99/month FLAT rate
+How Slack is helping [reimagine what a document is](http://fortune.com/2015/09/14/box-slack-documents-reimagining/)
 
 **Workplace Communication & Colloboration Players**
 
 | Company | MCap | Products | Notes |
 | --- | --- | --- | --- |
-| `Atlasian` | $12 B  | Trello, Stride , Jira, Bitbucket  | |
-| `Slack` | $8 B | Slack |  Background styling of the element. |
-| `AirTable` |  $0.5 ?  | spread sheet, meet database | create workflow Apps with out Coding & Easiest Data Entry |
+| `Atlasian` | $12 B  | Trello, Stride , Jira, Bitbucket  | subsidize  Stride, Trello with enterprise Jira Money |
+| `Slack` | $8 B | Slack |  Slack needs a project management tool(Trello + AirTable) Build or Buy? |
+| `AirTable` |  $0.5 ?  | spread sheet, meet database | create workflow Apps with out Coding & Easiest Data Entry. one of 5 will BUY this. |
 | `BaseCamp` | $1.5 ? | All in one product, $99/mon FLAT  | Anti-Slack product. Every thing in ONE Place, not all over the Place |
-| `GSuite` |  -  | mail leader, early Cloud Leader |  |
-| `Microsoft` |  -  |  MS Office Cashcow defender |  |
-| `DropBox` |  $11 B  | file Storage | have interest in workplace products |
+| `GSuite` |  -  | mail leader, early Cloud Leader | need Catchup, buy some 2nd tier other small Cos |
+| `Microsoft` |  -  |  MS Office Cashcow defender |  need Catchup, buy some 2nd tier other small Cos. |
+| `DropBox` |  $11 B  | file Storage | may need to expand to Workplace software  |
+
+
+| product | Notes | 
+| --- | --- | 
+| Slack    | Slack has 3 things. a) instant Search & Recall, dead simple Communication tool & Organiser (think email) b) Task automation by integrating with other products/services|
+| Airtable | Airtable is new Slack (new Chat). It has 2 things a) Easiest Data Entry b) create workflow Apps with out Coding. by 2019 everybody will implement AirTable functionality .|
+| BaseCamp |  $99/month unlimited USERS, 100,000 business, Revenue $120 M/year. Very unique business model with FLAT fee |
+
+**Developer Tools**
+| Category | Products | Notes | Url|
+| --- | --- | --- | --- |
+| VCS  |  github, BitBucket, GitLan | BitBucket low price is keeping Lid on Github IPO ambitions | |
+| IDE  |  PyCharm, RubyMine, IntelliJ, Sharp | JetBrains : has every IDE, No second player Ecllipse? | |
+| CI tools  |  Jenkins, Travis CI, Circle CI, Team City, Bamboo, Gitlan CI | Jenkins FOSS good, may need some tech work |[url](https://stackify.com/top-continuous-integration-tools/)  |
 
 
 ## Group 1
