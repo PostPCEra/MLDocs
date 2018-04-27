@@ -5,6 +5,10 @@
     "previous": "Previous",
     "tagline": "A website for testing",
     "Analytics": "Analytics",
+    "Autonomus_electric_cars": "Autonomus Electric cars",
+    "Autonomus Electric cars": "Autonomus Electric cars",
+    "CRISPR_DNA_editing": "CRISPR_DNA_editing",
+    "CRISPR DNA editing": "CRISPR DNA editing",
     "Crowd_solving": "Crowd solving",
     "Crowd solving": "Crowd solving",
     "DevOps": "DevOps",
@@ -19,7 +23,7 @@
     "ML_building_business": "ML building business",
     "ML building business": "ML building business",
     "os_shell": "Latin-ish",
-    "OS Shell": "OS Shell",
+    "OS Shell & new Gen Tools": "OS Shell & new Gen Tools",
     "personal_development": "All about People",
     "Personal Development": "Personal Development",
     "Producivity_tools": "Producivity_tools",
@@ -38,6 +42,7 @@
     "Startup Theory": "Startup Theory",
     "Mastery Learn": "Mastery Learn",
     "People": "People",
+    "Future": "Future",
     "First Category": "First Category"
   },
   "pages-strings": {

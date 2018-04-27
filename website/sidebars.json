@@ -4,7 +4,8 @@
     "Startup Theory": ["startup_theory"],
 
     "Mastery Learn": ["ML_building_business", "Crowd_solving"],
-    "People": ["personal_development"]
+    "People": ["personal_development"],
+    "Future": ["Autonomus_electric_cars", "CRISPR_DNA_editing"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
