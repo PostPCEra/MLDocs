@@ -15,7 +15,15 @@ sidebar_label: OS Shell & new Gen Tools
 
 ### ReDoc, Swager, Postman 
 - [ReDoc > Spectacle > Swagger UI](https://blog.apisyouwonthate.com/turning-contracts-into-beautiful-documentation-deac7013af18)
+- [Rdoc usage site](https://docs.docker.com/engine/api/v1.25/#tag/Volume)
 
+**Table example**
+
+| Prop | Type | Default | Description |
+| --- | --- | --- | --- |
+| `padding` | Array of `'all'`, `'bottom'`, `'left'`, `'right'`, `'top'` | `[]` | Positions of the padding. |
+| `background` | One of `'dark'`, `'highlight'`, `'light'` | `null` | Background styling of the element. |
+| `className` | String | - | Custom class to add to the element. |
 
 ## Core basics
 
