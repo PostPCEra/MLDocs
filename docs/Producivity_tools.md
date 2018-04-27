@@ -4,6 +4,26 @@ title: Producivity_tools
 sidebar_label: Producivity tools
 ---
 
+> Slack ($8 B valuation) and Atlasian ($12 B Marketcap) will be big players in `workplace communication & Colloboration` space. Slack needs a project management buy from somebody. Atlasian has Trello and new `stride` (Slack answer). 
+Airtable is new entrent doing all the Data Entry and workflow tasks, may be Slack will buy it in 2018 . Microsoft and Google GSuite also need Airtable .
+
+> Airtable is new Slack (new Chat), by 2019 everybody will implement AirTable functionality .
+
+> BaseCamp is another great all purpose workplace tool, $99/month unlimited users, on its website it states  has 100,000 businesses as customers, so $10 M/month revenue, $120 M/year. It is very unique business model offering $99/month FLAT rate
+
+**Workplace Communication & Colloboration Players**
+
+| Company | MCap | Products | Notes |
+| --- | --- | --- | --- |
+| `Atlasian` | $12 B  | Trello, Stride , Jira, Bitbucket  | |
+| `Slack` | $8 B | Slack |  Background styling of the element. |
+| `AirTable` |  $0.5 ?  | spread sheet, meet database | create workflow Apps with out Coding & Easiest Data Entry |
+| `BaseCamp` | $1.5 ? | All in one product, $99/mon FLAT  | Anti-Slack product. Every thing in ONE Place, not all over the Place |
+| `GSuite` |  -  | mail leader, early Cloud Leader |  |
+| `Microsoft` |  -  |  MS Office Cashcow defender |  |
+| `DropBox` |  $11 B  | file Storage | have interest in workplace products |
+
+
 ## Group 1
 
 ### gmail
