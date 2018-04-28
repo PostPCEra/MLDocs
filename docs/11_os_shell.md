@@ -1,5 +1,5 @@
 ---
-id: os_shell
+id: 11_os_shell
 title: Latin-ish
 sidebar_label: OS Shell & new Gen Tools
 ---

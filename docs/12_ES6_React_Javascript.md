@@ -1,5 +1,5 @@
 ---
-id: ES6_React_Javascript
+id: 12_ES6_React_Javascript
 title: Modern JS with ES6
 sidebar_label: Modern JS with ES6
 ---
