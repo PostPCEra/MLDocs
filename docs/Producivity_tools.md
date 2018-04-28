@@ -1,12 +1,14 @@
 ---
 id: Producivity_tools
 title: Workplace Producivity tools
-sidebar_label: Producivity tools
+sidebar_label: Workplace Producivity tools
 ---
 
-> "Every time there’s a platform shift, our concept of what a document is takes another step along that spectrum”  -@sschillace Founder Writely GDocs precursor
+> "Every time there’s a `platform shift`, our concept of `what a document is` takes another step along that spectrum”  - @sschillace Founder Writely GDocs precursor
 
 How Slack is helping [reimagine what a document is](http://fortune.com/2015/09/14/box-slack-documents-reimagining/)
+
+The [Slack generation](https://www.economist.com/news/business/21698659-how-workplace-messaging-could-replace-other-missives-slack-generation) : How workplace messaging could replace other missives
 
 **Workplace Communication & Colloboration Players**
 
@@ -23,7 +25,8 @@ How Slack is helping [reimagine what a document is](http://fortune.com/2015/09/1
 
 | product | Notes | 
 | --- | --- | 
-| Slack    | Slack has 3 things. a) instant Search & Recall, dead simple Communication tool & Organiser (think email) b) Task automation by integrating with other products/services|
+| Slack    | Slack has 3 things. a) instant Search & Recall, dead simple Communication tool & Organiser (think email) b) everything in workplace became `OPEN by default` vs `Close by default of 2000` resulted in contribute from anywhere  c) Task automation by integrating with other products/services [URL]((https://www.economist.com/news/business/21698659-how-workplace-messaging-could-replace-other-missives-slack-generation))|
+| Slack    | 150  customers on [Slack Enterprise Grid](https://slackhq.com/celebrating-one-year-and-150-plus-customers-on-slack-enterprise-grid-1b7528b19759) `GE,FOX 25K , Oracle 38K, eBay 10K Users`
 | Airtable | Airtable is new Slack (new Chat). It has 2 things a) Easiest Data Entry b) create workflow Apps with out Coding. by 2019 everybody will implement AirTable functionality .|
 | BaseCamp |  $99/month unlimited USERS, 100,000 business, Revenue $120 M/year. Very unique business model with FLAT fee |
 

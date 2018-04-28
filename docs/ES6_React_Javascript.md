@@ -17,6 +17,14 @@ sidebar_label: Modern JS with ES6
 - [5 REASONS WHY ES6 ROCKS](http://orlandohamsho.com/javascript/5-reasons-es6-rocks-yo/) 
 - [Advantages of JavaScript ES6 over ES5](http://www.cuelogic.com/blog/advantages-of-javascript-es6-over-es5/)
 
+**Model Code**
+
+| Source | Date | Desc | Notes |
+| ------- | -----| ---- | ----- |
+| [HeapAnalytics](https://heapanalytics.com/) | 2/2018  | How We Write [Front-end Code](https://heapanalytics.com/blog/engineering/how-we-write-front-end-code)  | `Mobx`, React `Testing:` Mocha, Chai, and Enzyme |
+| [Segment](https://segment.com/product) | $12 B  | Collect data once with Segment. Integrate a best-in-class marketing and analytics stack. | Capture data from every customer touch point. Send your customer data to the tools where it can be used most effectively.|
+
+
 ## React Eco System 
 
 > The concept of `Virtual DOM` is an untapped `abstraction` in the browser, waiting to be discovered for a decade . This untapped abstraction is manifested in React Js. Any untapped abstraction has to come out, it is only matter of time.

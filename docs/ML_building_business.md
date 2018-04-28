@@ -14,6 +14,16 @@ sidebar_label: ML building business
 
 ## Building Business
 
+### Business Models
+
+**Models**
+
+
+| Company | Date | Notes |
+| ------- | -----| ----  | 
+| [Recurse](https://www.recurse.com/blog/131-join-rc-and-help-grow-a-new-kind-of-business-and-community) | 2/2018  | 1. Experienced & new programmers come to RC from around the world to spend one, six, or twelve weeks in New York focused on getting better at programming. <br/>2. The primary educational value of RC is peer-to peer. We don’t have teachers or a curriculum <br/>3. Recursers work on whatever they’re most interested in, teaching and learning from each other |
+| [about page](https://www.recurse.com/about) | 2/2018 | Batches start every six weeks . <br/> We started RC in 2011, and for the first several years, we mistakenly organized our company into two divisions: education and recruiting |
+
 ### How to get users
 
 ## Building Website
