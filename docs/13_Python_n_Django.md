@@ -15,13 +15,19 @@ sidebar_label: Python & Django
 
 ## Django
 
-### those 2 Books on ORM and other
-  -  2 books
-  -  Django 1.8 PDF book 
+### Books & Project code
 
-### Django Libs 
- - website by those couples 
+| Title | Date | Notes | 
+| ------- | -----| ----  | 
+| Django ORM Cookbook  | Django 2.0 | [Q & A Format](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/)  | 
+| Django Projects Cookbook | Django 2.0 | [multiple mini projects](https://books.agiliq.com/projects/djenofdjango/en/latest/models-tutorial.html) | 
+| Two Scoop Django  | no Django-allauth talk in book| [Django 1.8 PDF book](https://github.com/PostPCEra/Projects-asr/tree/master/technical-notes/Django_posts)   | 
+| Projects code  | -----| 2 projects [Cabot,  SALEOR](https://github.com/PostPCEra/Projects-asr/blob/master/technical-notes/Django_posts/django_production_projects.md)
+| Projects code  | 2 yr old, not a food choice?| see Realworld Django project |
+| Library | awesome Django| [website](http://awesome-django.com/#awesome-django-authentication) --- [An awesome package is one that is mature (not recently released), is well maintained](https://github.com/rosarior/awesome-django)
+| Python  |  | Libhunt(https://python.libhunt.com/)
+ 
+ - website by those couples(https://twoscoopspress.com/pages/django-references) , did not have link to Library list
+ - [pydanny](https://www.pydanny.com/i-married-audrey-roy.html)
 
-### Realworld-Django vs other Repo
-- tbd
 - Automated generation of real Swagger/OpenAPI schemas [from Django Rest Framework code](https://github.com/axnsan12/drf-yasg)

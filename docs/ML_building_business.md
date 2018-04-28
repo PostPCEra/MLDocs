@@ -31,4 +31,14 @@ sidebar_label: ML building business
 
 ### Tech Stack
 
+## Components to Build
+| Component | Notes | Notes 2 |
+| -------   | ----- | ----    | 
+| Env Setup | Take digital ocean one click install for Django .. |   |
+| Django-allauth | take this documentation and try to implement  | [URL](http://django-allauth.readthedocs.io/en/latest/installation.html) |
+| DB model | define Model in Django models.py file | take one of existing models .. |
+
+
+see what Two scoops book saying about this Django-allauth
+
 Write about what are the stacks considered & why
