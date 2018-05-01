@@ -1,13 +1,13 @@
 ---
 id: 16_DevOps
 title: DevOps = IT Automation
-sidebar_label: DevOps = IT Automation
+sidebar_label: DevOps = Continual Experimentation
 ---
 
 
 ## 1. Provisioning & Conig. management
 
-### The 15-point DevOps Check List
+### 1.1 The 15-point DevOps Check List
 
 > Culture Of [Continual Experimentation And Learning](https://medium.com/devopslinks/the-15-point-devops-check-list-8cd2afb4a448)
 
@@ -24,7 +24,7 @@ sidebar_label: DevOps = IT Automation
 - The DevOps Feedback Loop
 - Automating measurements
 
-### Ansible
+### 1.2 Ansible
 
 
 | Title | What | Notes | 
@@ -47,21 +47,54 @@ So how can I use Ansible?
 ![Ansible2](/docs/assets/Ansible2.png)
 
 
-### Docker
+### 1.3 Docker
 
 Docker notes goes here .....
 
+|Docker Compose in 12 Minuts | [love](https://www.youtube.com/watch?v=Qw9zlE3t8Ko)|
+|Deploying Django web applications in Docker containers | [youtube](https://www.youtube.com/watch?v=T2hooQzvurQ) 10/17 |
+|Dockerizing a Django REST Framework Project | [youtube](https://www.youtube.com/watch?v=Y_rh-VeC_j4) 8/17 |
+|Building Python apps with Docker |[youtube](https://www.youtube.com/watch?v=VhabrYF1nms&t=20s)|
 
 ## 2. CI & CD
 
-Noticed many companies using Jenkins as CI tool 
- 
-### Jenkins
+> Unlike compiled languages, [Python doesn’t need a "build" per se](https://jenkins.io/solutions/python/). 
+Python projects can still benefit greatly from using Jenkins for continuous integration and delivery.
 
-### hosted CI tool vendors 
+
+Except Java and C, other Languages doesn't have `Build` per se. The list goes on Python/PHP/Ruby, Javascript ... That is the reason `Jenkins` origions are so much JAVA Build system centered .
+ 
+An [Introduction to CI/CD Best Practices](https://www.digitalocean.com/community/tutorials/an-introduction-to-ci-cd-best-practices)
+ 
+### 2.1 Jenkins
+
+Configuring a [Jenkins Pipeline using a YAML file ](https://jenkins.io/blog/2018/04/25/configuring-jenkins-pipeline-with-yaml-file/)
+ - the above is experimental, but shows promise of Jenkin config coming to YMAL 
+
+
+### 2.2 BuildBot
+
+After Jenkin, python based CI Server [BuildBot]() is popular [as per this](https://blog.taiga.io/6-excellent-continuous-integration-tools.html).
+
+`BuildBot` is used by `Mozilla, Webkit, Chromium`
+
+| Title   |  Notes | 
+| ------- |  ----  | 
+| How To Set Up Continuous Integration with Buildbot on Ubuntu 16.04 | [Digital ocean](https://www.digitalocean.com/community/tutorials/how-to-set-up-continuous-integration-with-buildbot-on-ubuntu-16-04) |
+| | |
+
+`Conclusion : `
+In this tutorial, we configured Buildbot to listen for changes to a GitHub repository using webhooks. When a change is received, Buildbot starts up a container based on a custom Docker image to test the new commit. The Docker image contains a Buildbot worker instance as well as the dependencies needed to test our project code. This allows Buildbot to dynamically start Buildbot workers as needed whenever a change is made to the repository.
+ 
+  
+### 2.3 hosted CI tool vendors 
   Circle CI, Travis CI 
+
+
+[DevOps Toolbox](https://hostadvice.com/blog/devops-toolbox-jenkins-ansible-chef-puppet-vagrant-saltstack/) - some good tools parts showing Jenkins can integrate all CI/CD Ecosystem ( some of that integration may be only available in CloudBees not in FOSS Jenkins), but CI coluld host vendors `Travis CI` `Circle CI` etc are 
+missing. It seems this post is promoting more of sponsers of the website like CloudBee (Enterprise Jenkins) etc..
 
 
 ## 3. Version Control System VCS
 
-### Bitbucket , github
+### 3.1 Bitbucket , github
