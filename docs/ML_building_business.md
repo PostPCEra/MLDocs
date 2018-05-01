@@ -42,3 +42,11 @@ sidebar_label: ML building business
 see what Two scoops book saying about this Django-allauth
 
 Write about what are the stacks considered & why
+
+
+## Voice Integration
+
+### Amazon voice
+
+### Sample audio read
+ see how aduio feels [in a long page read](http://slideplayer.com/slide/10836541/)
