@@ -51,10 +51,15 @@ So how can I use Ansible?
 
 Docker notes goes here .....
 
-|Docker Compose in 12 Minuts | [love](https://www.youtube.com/watch?v=Qw9zlE3t8Ko)|
-|Deploying Django web applications in Docker containers | [youtube](https://www.youtube.com/watch?v=T2hooQzvurQ) 10/17 |
-|Dockerizing a Django REST Framework Project | [youtube](https://www.youtube.com/watch?v=Y_rh-VeC_j4) 8/17 |
-|Building Python apps with Docker |[youtube](https://www.youtube.com/watch?v=VhabrYF1nms&t=20s)|
+| Title   |  Note  | Notes | 
+| ------- |  ----  | ------ |
+|Learn Docker in 12 Minutes | | [best](https://www.youtube.com/watch?v=YFl2mCHdv24&t=366s) 3/17|
+|Docker Compose in 12 Minuts |[github](https://github.com/jakewright/tutorials/tree/master/docker/02-docker-compose) | [love](https://www.youtube.com/watch?v=Qw9zlE3t8Ko) 3/17|
+|Deploying Django web applications in Docker containers | | [youtube](https://www.youtube.com/watch?v=T2hooQzvurQ) 10/17 |
+|Dockerizing a Django REST Framework Project | |  [youtube](https://www.youtube.com/watch?v=Y_rh-VeC_j4) 8/17 |
+|Building Python apps with Docker | |[youtube](https://www.youtube.com/watch?v=VhabrYF1nms&t=20s)|
+
+[Jake](https://www.youtube.com/watch?v=AMqkTIs-ngQ) - Cambridge Comp. Sc grad of above Docker 12 min.
 
 ## 2. CI & CD
 

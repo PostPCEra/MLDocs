@@ -17,6 +17,8 @@ sidebar_label: OS Shell & new Gen Tools
 - [ReDoc > Spectacle > Swagger UI](https://blog.apisyouwonthate.com/turning-contracts-into-beautiful-documentation-deac7013af18)
 - [Rdoc usage site](https://docs.docker.com/engine/api/v1.25/#tag/Volume)
 
+
+
 **Table example**
 
 | Prop | Type | Default | Description |
@@ -34,7 +36,9 @@ Talks about core basics .
 This is OS section 
  
 
-### Shell
+### Shell : Oh My Zsh 
+[iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font ](https://gist.github.com/kevin-smets/8568070)
+
 few lines on Terminal 
 
 Shells goes here
