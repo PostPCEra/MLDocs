@@ -7,7 +7,7 @@ sidebar_label: DevOps = Continual Experimentation
 
 ## 1. Provisioning & Conig. management
 
-### 1.1 The 15-point DevOps Check List
+### The 15-point DevOps Check List
 
 > Culture Of [Continual Experimentation And Learning](https://medium.com/devopslinks/the-15-point-devops-check-list-8cd2afb4a448)
 
@@ -24,7 +24,7 @@ sidebar_label: DevOps = Continual Experimentation
 - The DevOps Feedback Loop
 - Automating measurements
 
-### 1.2 Ansible
+### Ansible
 
 
 | Title | What | Notes | 
@@ -47,7 +47,7 @@ So how can I use Ansible?
 ![Ansible2](/docs/assets/Ansible2.png)
 
 
-### 1.3 Docker
+### Docker
 
 Docker notes goes here .....
 
@@ -59,6 +59,7 @@ Docker notes goes here .....
 |Deploying Django web applications in Docker containers | | [youtube](https://www.youtube.com/watch?v=T2hooQzvurQ) 10/17 |
 |Dockerizing a Django REST Framework Project | |  [youtube](https://www.youtube.com/watch?v=Y_rh-VeC_j4) 8/17 |
 |Building Python apps with Docker | |[youtube](https://www.youtube.com/watch?v=VhabrYF1nms&t=20s)|
+|Automated Docker Deployment to Kubernetes with Buildbot|automation height| [url](https://www.twosixlabs.com/automated-docker-deployment-kubernetes-buildbot/)|
 
 [Jake](https://www.youtube.com/watch?v=AMqkTIs-ngQ) - Cambridge Comp. Sc grad of above Docker 12 min.
 
@@ -101,6 +102,18 @@ In this tutorial, we configured Buildbot to listen for changes to a GitHub repos
 missing. It seems this post is promoting more of sponsers of the website like CloudBee (Enterprise Jenkins) etc..
 
 
-## 3. Version Control System VCS
+## 3. Test Automation
 
-### 3.1 Bitbucket , github
+###  VCS : Bitbucket & github
+Version Control System VCS
+
+###  Jest - Client side
+
+###  NightWatch - Browser E2E 
+
+Node.js powered End-to-End testing framework
+
+
+###  Pytest - Server  side
+    python functional testing
+
