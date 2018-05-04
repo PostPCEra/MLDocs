@@ -56,6 +56,7 @@ Docker notes goes here .....
 |Learn Docker in 12 Minutes | | [best](https://www.youtube.com/watch?v=YFl2mCHdv24&t=366s) 3/17|
 |Docker Compose in 12 Minuts |[github](https://github.com/jakewright/tutorials/tree/master/docker/02-docker-compose) | [love](https://www.youtube.com/watch?v=Qw9zlE3t8Ko) 3/17|
 |From Zero to Docker - Tutorial for Beginner | | [Theory](https://www.youtube.com/watch?v=JprTjTViaEA&t=139s) 6/17 |
+|A Production-ready Dockerfile for Your Python/Django App| | [article](https://www.caktusgroup.com/blog/2017/03/14/production-ready-dockerfile-your-python-django-app/) |
 |Deploying Django web applications in Docker containers | | [youtube](https://www.youtube.com/watch?v=T2hooQzvurQ) 10/17 |
 |Dockerizing a Django REST Framework Project | |  [youtube](https://www.youtube.com/watch?v=Y_rh-VeC_j4) 8/17 |
 |Building Python apps with Docker | |[youtube](https://www.youtube.com/watch?v=VhabrYF1nms&t=20s)|

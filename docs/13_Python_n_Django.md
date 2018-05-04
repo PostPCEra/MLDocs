@@ -17,6 +17,8 @@ sidebar_label: Python & Django
 
 ### Books & Project code
 
+What Does It Take to []Be An Expert At Python](https://github.com/austin-taylor/code-vault/blob/master/python_expert_notebook.ipynb) -- [youtube](https://www.youtube.com/watch?v=7lmCu8wz8ro)
+
 | Title | Date | Notes | 
 | ------- | -----| ----  | 
 | Django ORM Cookbook  | Django 2.0 | [Q & A Format](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/)  | 
