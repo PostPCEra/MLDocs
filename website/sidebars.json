@@ -1,9 +1,9 @@
 {
   "docs": {
     "Technology Stack": ["11_os_shell", "12_ES6_React_Javascript", "13_Python_n_Django", "14_Analytics", "15_Socialmedia_marketing", "16_DevOps", "17_Producivity_tools" ],
-    "Startup Theory": ["startup_theory", "Project_ideas"],
+    "Startup Theory": ["21_startup_theory", "22_Project_ideas", "23_self_taught"],
 
-    "Mastery Learn": ["ML_building_business", "Crowd_solving", "33_OnlineJudge", "self_taught"],
+    "Mastery Learn": ["31_ML_building_business", "312_Pedagogy", "32_Crowd_solving", "33_OnlineJudge"],
     "People": ["personal_development"],
     "Future": ["AI_ML_DL", "Autonomus_electric_cars", "CRISPR_DNA_editing"]
   },

@@ -1,10 +1,10 @@
 ---
-id: Crowd_solving
+id: 312_Pedagogy
 title: Crowd solving
 sidebar_label: Crowd solving
 ---
 
-## Rainforest QA quote
+## Pedagogy
 
 > Crowd + Machine Learning = Awesome! <br> Leverage crowdtesting with machine learning to deliver reliable results at scale 
 

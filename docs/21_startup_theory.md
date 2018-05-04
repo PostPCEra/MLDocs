@@ -1,5 +1,5 @@
 ---
-id: startup_theory
+id: 21_startup_theory
 title: startup_theory
 sidebar_label: Theory
 ---

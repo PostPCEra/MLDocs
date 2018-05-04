@@ -1,5 +1,5 @@
 ---
-id: Project_ideas
+id: 22_Project_ideas
 title: Project_ideas
 sidebar_label: Project ideas
 ---

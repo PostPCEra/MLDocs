@@ -1,5 +1,5 @@
 ---
-id: self_taught
+id: 23_self_taught
 title: self_taught
 sidebar_label: self Taught Programmer
 ---
@@ -22,4 +22,8 @@ Different types of Self Taught programmers
 
 extract from this [7-self taught](https://medium.freecodecamp.org/inspirational-success-stories-from-self-taught-web-developers-4f6f375cf17d)
 
+[self taught programmer](https://www.youtube.com/results?search_query=self+taught+programmer) youtube same keyword search results.
+ - watched first one, accurate representation , car sales men to JS learning from BOOK on friend advise, some push up of resume etc ..
+ - see couple of videos , seems follow the google order 
+ - he attended graphic Design class https://www.youtube.com/watch?v=nmZR_JsLCfg&t=10s , may not be some thing complete self taught
   
