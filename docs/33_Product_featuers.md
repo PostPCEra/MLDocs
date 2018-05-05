@@ -6,6 +6,9 @@ sidebar_label: Product featuers & PRD
 
 
 ## Features
+
+**move PRD & Docusarus to Bitbucket** , start using Digital ocean 2 month credit with Django/Ansible ..
+
 ### 1. Live programming 
 - It has both LPM and step back & step forward (when I tested)
 - change top box to text as  "Write code in `Python 3`" , remove all top & bottom text
@@ -18,14 +21,17 @@ sidebar_label: Product featuers & PRD
 ### 3. Exercises & Tests
 - we need this asap. Khan academy have a frame work to create Tests? see others 
 
-### 4. Start talking to users
+### 4. Forum software : Discourse
+-  go with $20/month plan?, should we ask to try this with 2 month Trail? .. 
+
+### 5. Start talking to users
 -  Art of living , later Empower & Excell , and Summer fre Tution fixed time classes 
 
-### 5. Voice Integration : TTS
+### 6. Voice Integration : TTS
 - Amazon voice
 - Sample audio read see how aduio feels [in a long page read](http://slideplayer.com/slide/10836541/)
  
-### 6. animation 
+### 7. animation 
 - see old research on animation 
  
  ## Version 2 features
