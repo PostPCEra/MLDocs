@@ -50,3 +50,18 @@ Write about what are the stacks considered & why
 
 ### Sample audio read
  see how aduio feels [in a long page read](http://slideplayer.com/slide/10836541/)
+ 
+ 
+ ## Version 2 features
+ 
+ ### autocompletion
+ - It may be good to add this RealTime web editor of python tutor
+ - `Jedi ` library seems [best one]() , used by Atom, Sublime Text,  
+ - Jedi can currently be used with the following editors/projects: 
+ - some web specic (not desktop) implementaionts : [on Atom](https://atom.io/packages/autocomplete-python-jedi), working with [wdb](https://github.com/Kozea/wdb)
+ 
+ ### web debugger
+ - pythontutor only provides step thru, if advanced user wanted to tinker with `python interacitve shell` like we do one on PC/Mac installed python
+  we can not do, but with this WDB we can same on the web
+ - wdb : An improbable [web debugger through WebSockets](https://github.com/Kozea/wdb)
+ - seems you can debug Flask, Django webserver code also ...

@@ -34,10 +34,10 @@ A Better metaphor may be using some thing well known such as  Chess piece names 
 It seems Levels 1,2,3 may be easy to comprehend than having 5 levels such as 1,2,3,4,5 ( too many, user get confused). Also with 3 levels there 
 is a sense of achievement like if one mastered each level in one month then that is total 5 months. 
 
-
-Babypips forex trading [using school  levels](https://www.babypips.com/learn/forex)
-- KG, Elementary, middle, high school, collage-sophamore, .., senior 
-
+**how Chess Rating is used in other systems**
+- Babypips forex trading [using school  levels](https://www.babypips.com/learn/forex) . KG, Elementary, middle, high school, collage-sophamore, .., senior 
+- Chess [Rating system](https://en.wikipedia.org/wiki/Chess_rating_system)
+- Here chess books, based on comptency level [pawn to Queen](https://chess4life.com/resources-by-level/) 
 
 ### Weekend tests
 4 Tests every weekend that is 2 tests on Saturday and 2 Tests on Sunday. These are tests with hand written on paper and are peer graded against different quality metrics.
@@ -147,13 +147,17 @@ print(balancenow)
   
 ## what is out there
 
-### youtube
- [top ex google guy](https://www.youtube.com/watch?v=AWek49wXGzI)
- [100k](https://www.youtube.com/watch?v=2uCXIbkbDSE) -- too much discussion with high level/low level langs etc. , jumped to functions 
- [2013 video 500k](https://www.youtube.com/watch?v=rkx5_MRAV3A) -- tried examples in python console 
+### youtube python Learn 
+ - [top ex google guy](https://www.youtube.com/watch?v=AWek49wXGzI)
+ - [100k](https://www.youtube.com/watch?v=2uCXIbkbDSE) -- too much discussion with high level/low level langs etc. , jumped to functions 
+ - [2013 video 500k](https://www.youtube.com/watch?v=rkx5_MRAV3A) -- tried examples in python console 
+ - 
+ - I think with out LEARNER doing his own exercises, it will be hard to retain & learn and re-produce ..
+ - In a video setting , it is difficult to have interative session, where as in website setting it can be done .. SO WE HAVE a SHOT .
  
- I think with out LEARNER doing his own exercises, it will be hard to retain & learn and re-produce ..
- 
- In a video setting , it is difficult to have interative session, where as in website setting it can be done .. SO WE HAVE a SHOT .
- 
- 
+### Websites teaching Python
+
+- programirz
+- Codecedemy
+- Treehouse
+-  
