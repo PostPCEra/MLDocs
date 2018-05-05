@@ -1,5 +1,5 @@
 ---
-id: 312_Pedagogy
+id: 31_Pedagogy
 title: Programming Pedagogy
 sidebar_label:  Programming Pedagogy
 ---

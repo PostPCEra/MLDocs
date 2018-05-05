@@ -1,5 +1,5 @@
 ---
-id: 33_OnlineJudge
+id: 351_OnlineJudge
 title: OnlineJudge 2.0
 sidebar_label: Online Judge
 ---

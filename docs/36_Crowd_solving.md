@@ -1,5 +1,5 @@
 ---
-id: 32_Crowd_solving
+id: 36_Crowd_solving
 title: Crowd solving
 sidebar_label: Crowd solving
 ---

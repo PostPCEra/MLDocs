@@ -1,5 +1,5 @@
 ---
-id: 31_ML_building_business
+id: 32_ML_building_business
 title: ML building business
 sidebar_label: ML building business
 ---
@@ -44,31 +44,3 @@ see what Two scoops book saying about this Django-allauth
 Write about what are the stacks considered & why
 
 
-## Features
-### 1. Live programming 
-- It has both LPM and step back & step forward (when I tested)
-- change top box to text as  "Write code in `Python 3`" , remove all top & bottom text
-- let it work with above changes on Flask, then make it work on Django
-
-### 2. User Registration & Login
-- Provising & config of Django with Ansible (from the git repo). No Docker things at this time
-- selection of User registration (China onlineJudge codebase, combine this with Django allauth for Social Login)
-
-### 3. Voice Integration : TTS
-- Amazon voice
-- Sample audio read see how aduio feels [in a long page read](http://slideplayer.com/slide/10836541/)
- 
- 
- ## Version 2 features
- 
- ### autocompletion
- - It may be good to add this RealTime web editor of python tutor
- - `Jedi ` library seems [best one]() , used by Atom, Sublime Text,  
- - Jedi can currently be used with the following editors/projects: 
- - some web specic (not desktop) implementaionts : [on Atom](https://atom.io/packages/autocomplete-python-jedi), working with [wdb](https://github.com/Kozea/wdb)
- 
- ### web debugger
- - pythontutor only provides step thru, if advanced user wanted to tinker with `python interacitve shell` like we do one on PC/Mac installed python
-  we can not do, but with this WDB we can same on the web
- - wdb : An improbable [web debugger through WebSockets](https://github.com/Kozea/wdb)
- - seems you can debug Flask, Django webserver code also ...
