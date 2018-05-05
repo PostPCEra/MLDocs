@@ -13,7 +13,8 @@ Why not other langs. Well Python has these huge list of advantages . (read 5 big
 
 we are different. We will never ever UTTER a WORD, which you DO NOT Understand. period, that is our Promise.
 
-Story time .... Tell a story ...
+Story time .... Tell a story ... get good story where sequence does not matter but `mastering craft` does
+
 Here is Google Eng. Dir .. give link
  - if you have a friend who can help, learn that language
  - else Learn Python ...
@@ -50,7 +51,87 @@ Total hours/week : 22.5
 Total hours/month : 90 hours 
 ```
 
+That is `express Track ` , the other one is regular (slow?) Track that is 40 hours/week .
+
+for Each level you can have in a different Track, say 'Pawn 1' express track,  `Pawn 2` regular track etc.. But once you start a LEVEL you should finish
+it in the same Track .
+
+ 
 If you are a student or employee and you can not get those 22 hours/week, share how your time is allocated as of today, community may suggest you
 how to get your tasks done in less time or all together ditch those time wasting tasks ( FB, Social media etc..)
 
 We all need 8 hours sleep, 2 hours total for other essentials like ( eating food + shower + etc ). Anything else  that begs your time you have to question .
+
+## Lessons
+
+### Lesson 1
+
+What constitutes a language ?
+
+`grammer :` rules that dictates what should be where
+
+He is a good boy <br>
+good boy he is
+
+`vocabulary `
+
+
+| Language | Grammer | Vocabulary |
+| ------- |  -----   | ----  | 
+| English | He is a good boy | good  | 
+| English | a good boy is he  - `bad grammer`|   | 
+| English | The tone of her speech was commendable| commendable  | 
+| ------- |          | ----  |
+| python  |  if age > 20:    | if  , print() , list()    |
+
+
+
+| what      | Notes |
+| -------   |  ----- |
+|`variable `|  any value |
+|           |  a , name , age , fruit |
+| `expression`| expression has a value , meaning It evaluates to a value |
+|             |variable + number ,  varible - number , variable * variable ,  variable + expression |
+|`assignment ` | binding a value to variable name |
+|              | age = 20 ,  number = 5 , value = 20 + 5 |
+
+
+
+
+do some 7th grade math problem with steps, to show variable concept 
+
+# making [egg omlet  steps take from here](https://www.google.com/search?q=how+to+make+egg+omelet&rlz=1C5CHFA_enUS738US738&oq=how+to+make+egg+om&aqs=chrome.1.69i57j0l5.8712j0j7&sourceid=chrome&ie=UTF-8)
+1. have a bowl
+2. have 2 eggs
+3. have onion, salt , pepper powder
+4. have a pan, slowly heat it on stove
+4. beat eggs into bowl
+5. chop oninon into small pieces
+6. add onion pieces into bowl
+
+```python
+
+number = 5
+number = number + 3
+
+age = 20
+age = age + 4
+
+age = age - 2
+
+# so it is sequence of steps going from top to bottom .
+
+
+
+# Bank balance problem
+balnce = 200
+
+
+print(balnce - 20)
+
+print ( balance)
+
+balancenow = balance - 20
+print(balancenow)
+```
+  
