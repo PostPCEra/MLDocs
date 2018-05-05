@@ -44,12 +44,19 @@ see what Two scoops book saying about this Django-allauth
 Write about what are the stacks considered & why
 
 
-## Voice Integration
+## Features
+### 1. Live programming 
+- It has both LPM and step back & step forward (when I tested)
+- change top box to text as  "Write code in `Python 3`" , remove all top & bottom text
+- let it work with above changes on Flask, then make it work on Django
 
-### Amazon voice
+### 2. User Registration & Login
+- Provising & config of Django with Ansible (from the git repo). No Docker things at this time
+- selection of User registration (China onlineJudge codebase, combine this with Django allauth for Social Login)
 
-### Sample audio read
- see how aduio feels [in a long page read](http://slideplayer.com/slide/10836541/)
+### 3. Voice Integration : TTS
+- Amazon voice
+- Sample audio read see how aduio feels [in a long page read](http://slideplayer.com/slide/10836541/)
  
  
  ## Version 2 features
