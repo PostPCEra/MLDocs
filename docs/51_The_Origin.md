@@ -40,7 +40,21 @@ sidebar_label: The Origin
 ## Human Society
 
 
-### 3 Revolutions : Cognitive , 
+Human Origins at SI
+
+- The Smithsonian's Human Origins Program: [understanding the scientific evidence for how humans evolved](https://twitter.com/HumanOrigins) , my timeline below.
+
+### 3 Revolutions : Cog , Ag , Sci
+
+
+3 Revoltions as per [Sapiens book author](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)
+
+| Revolution |  Time period | Brain size | duration      |
+| -------    | -----     |      ----  | ---------  |
+| Cognitive  | 4 ma - 1 ma| 400 cc to 1000 cc  | 5 million years  |
+| Agriculture  | -50,000 to 100 AD | 1200 to 1400 cc  | 10,000 years  |
+| Scientific  | 1300 to 1900 AD |  same as Ag  | 600 years  |
+| AI Revolution  | 2050 to 2100 AD |  same as Sci  | 50  years  |
 
 ### Brain size increases rapidly From 800,000–200,000 years ago
 
