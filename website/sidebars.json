@@ -5,7 +5,7 @@
 
     "Mastery Learn": [ "31_Pedagogy", "32_ML_building_business", "33_Product_featuers",  "351_OnlineJudge", "36_Crowd_solving"],
     "People": ["personal_development"],
-    "Future": ["AI_ML_DL", "Autonomus_electric_cars", "CRISPR_DNA_editing"]
+    "Future": ["51_The_Origin", "AI_ML_DL", "Autonomus_electric_cars", "CRISPR_DNA_editing"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
