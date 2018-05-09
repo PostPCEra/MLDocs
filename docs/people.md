@@ -30,3 +30,8 @@ sidebar_label: Personal Development
   
 ## Fun things
  - [Machine Pix](https://twitter.com/MachinePix?lang=en)
+ 
+ 
+ |You can grow new brain cells. Here's how|| BS?  |[Video](https://www.youtube.com/watch?v=B_tjKYvEziI)
+ 
+ [The power of believing that you can improve | Carol Dweck](https://www.youtube.com/watch?v=_X0mgOOSpLU)

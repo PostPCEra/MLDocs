@@ -66,6 +66,10 @@ revolution for Machines .
 - Human brain size [evolved most rapidly during a time of dramatic climate change](http://humanorigins.si.edu/human-characteristics/brains). Larger, more complex brains enabled early humans of this time period to interact with each other and with their surroundings in new and different ways. As the environment became more unpredictable, bigger brains helped our ancestors survive.
 
 
+- [What is so special about the human brain](https://www.youtube.com/watch?v=_7_XH1CBzGw) : cooked food gave enough calories required for Brain growth, where as 
+for Chimps food intake is not enough Calories to let Brain grow ( so evolution did not let brain grow). I (asr) add, combine this 
+with `constant challenges & Learning` early human had on constant Run made Human brain to create new 'Nurons' vs. stagnated life style of a chimp in forest.
+
 
 - [slides](https://www.slideshare.net/nehabans84/evolutionary-psychology-60714821)
 - Evolutionary psychology is the combination of two sciences -- evolutionary biology and cognitive psychology’.
@@ -73,7 +77,8 @@ revolution for Machines .
 
 
 - [slides payer](http://slideplayer.com/slide/2582954/)
-
+- [The Evolution of Man](https://www.youtube.com/watch?v=4NcXffyLWuE)
+- [Our Story in 6 Minutes](https://www.youtube.com/watch?v=3rHXrA80NH4)
 ### Hunters & gatherers
 
 
