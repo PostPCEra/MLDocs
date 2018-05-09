@@ -51,10 +51,14 @@ Human Origins at SI
 
 | Revolution |  Time period | Brain size | duration      |
 | -------    | -----     |      ----  | ---------  |
-| Cognitive  | 4 ma - 1 ma| 400 cc to 1000 cc  | 5 million years  |
-| Agriculture  | -50,000 to 100 AD | 1200 to 1400 cc  | 10,000 years  |
+| Cognitive  | 7 ma - 1 ma| 400 cc to 1000 cc  | 6 million years  |
+| Agriculture  | -60,000 to 100 AD | 1200 to 1400 cc  | 60,000 years  |
 | Scientific  | 1300 to 1900 AD |  same as Ag  | 600 years  |
-| AI Revolution  | 2050 to 2100 AD |  same as Sci  | 50  years  |
+| AI Revolution  | 2040 to 2100 AD |  same as Sci  | 60  years  |
+
+Ai Revolution is a kind of `Cognitive` revolution, but this time, it not for animals(humans ),but for Machines . So it is cognitive 
+revolution for Machines .
+
 
 ### Brain size increases rapidly From 800,000–200,000 years ago
 
