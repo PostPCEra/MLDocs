@@ -18,8 +18,18 @@ sidebar_label: Product featuers & PRD
 - Provising & config of Django with Ansible (from the git repo). No Docker things at this time
 - selection of User registration (China onlineJudge codebase, combine this with Django allauth for Social Login)
 
-### 3. Exercises & Tests
+### 3. Pedagogy
+- daily effort 1 hr min ( preferably in one sitting) 
+- finish TEST at the end of session EVERY DAY ( should be strictly followed)
+- weekend Tests
+- peer grading
+- write in your own words what a FOR , IF means ; write a real world analogy ( version it & let them see 1 month old def of FOR , IF)
+- on paper tests
+
+
+### 3.2 Exercises & Tests
 - we need this asap. Khan academy have a frame work to create Tests? see others 
+
 
 ### 4. Forum software : Discourse
 -  go with $20/month plan?, should we ask to try this with 2 month Trail? .. 
