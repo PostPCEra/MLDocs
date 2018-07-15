@@ -57,7 +57,21 @@ All the JS frame works Angular, Vue implemented React famous feature that is `Vi
 - MobX State Tree : An opinionated state management system - [youtube](https://www.youtube.com/watch?v=HS9revHrNRI) - [google slides](https://docs.google.com/presentation/d/1f18RhN9hz1GPAdY4binWVNZDKm3k7EfNvV48lWnzdjQ/edit#slide=id.g35f391192_00)
 - [8 React conditional rendering methods](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
 
+### Mobx for this UX site
+- [Women who Design](https://womenwho.design/)
+- 
+```
+Components
+ - App.jsx  ( all below 3 are rendered in this component )
+ - Categories.jsx (left hand pane )
+ - Filter.jsx ( top pane )
+ - Result.jsx ( center pane )
+Models
+ - Item.js  ( model for each grid cell )
+ 
+index.js  ( init data, call <App date={data}/>  )
 
+```
 
 ## Real time Search
 
