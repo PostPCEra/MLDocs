@@ -1,6 +1,6 @@
 
-Did you ever fall in love  .... with something (a utility/tool/techbolgy/concept)
-```
+## Did you ever fall in love  .... with something (a utility/tool/techbolgy/concept)
+
 - JS Form validation library ( it won't allow you to type/input a wrong input)
 
 - concept : The name of the game is to comeup with next Abstraction upward ( some piece of software is hard because 'Abstraction is still not right YET' ( JQuery to React JS)
@@ -9,7 +9,7 @@ Did you ever fall in love  .... with something (a utility/tool/techbolgy/concept
 - people still feel React JS is hard : because 'UI Rendering' and 'Application State(store) management' are two distinct Abstrctions, people are mixing and mathicng the two, They need clearn separtion, people realisze 'mixed abstractions' is the root cause and embrace Mobx like Libraries to sovle it soon.
 
 - Deep Learning : TensorFlow , RL  
-```
+
 
 ## Future Innovations :
 - Transoortation : Autonomus fleets, monthly subscription: $150 Billion VC/Companies invested from 2014 to 2018 ( $80 + $70 in 2018) to solve one problem: to reduce transporation bill to half to each person(car) from $600/month to $300
