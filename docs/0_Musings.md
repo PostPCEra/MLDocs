@@ -2,9 +2,12 @@
 Did you ever fall in love  .... with something (a utility/tool/techbolgy/concept)
 ```
 - JS Form validation library ( it won't allow you to type/input a wrong input)
-- Mobx MST , design front-end without UI
-- concept : The name of the game is to comeup with next Abstraction upward ( some piece of software is hard because 'Abstraction is still not right'
-- React JS :there is no other simpler way to write UI, 50 years of programming languages proved it, that is 'programming is abstracting into ordered functions' , that is what REACT JS is)
+
+- concept : The name of the game is to comeup with next Abstraction upward ( some piece of software is hard because 'Abstraction is still not right YET' ( JQuery to React JS)
+- React JS :there is no other simpler way to write UI, 50 years of programming languages proved it, that is 'programming is abstracting into ordered functions' ,that is what REACT JS is. Write UI in Java/C/Ruby/Python you come up same as React JS.
+- Mobx MST , design front-end without UI ( State and API to chnage Change)
+- people still feel React JS is hard : because 'UI Rendering' and 'Application State(store) management' are two distinct Abstrctions, people are mixing and mathicng the two, They need clearn separtion, people realisze 'mixed abstractions' is the root cause and embrace Mobx like Libraries to sovle it soon.
+
 - Deep Learning : TensorFlow , RL  
 ```
 
