@@ -9,7 +9,7 @@ Did you ever fall in love  .... with something (a utility/tool/techbolgy/concept
 ```
 
 ## Future Innovations :
-- Transoortation (Autonomus fleets) : $150 Billion invested from 2014 to 2018 ( $80 + $70 in 2018) to solve one problem: to reduce transporation bill to half to each person(car) from $600/month to $300
-- Food : is next, with centralized kitchens, the price of 2 meals/day cost from $10 (inclding labour cost) to half $5 to every person  
+- Transoortation : Autonomus fleets, monthly subscription: $150 Billion VC/Companies invested from 2014 to 2018 ( $80 + $70 in 2018) to solve one problem: to reduce transporation bill to half to each person(car) from $600/month to $300
+- Food : is next, centralized kitchens,monthly sub : the price of 2 meals/day cost from $10 (inclding labour cost) to half $5 to every person  
 - Work & Educatioin : Teaching Bots, automatic pay from future salary to institutions who trained 
 - health care : insurance for non-cardio diceses at 1/5 of today cost , since with 20 types of foods everything is controlled
