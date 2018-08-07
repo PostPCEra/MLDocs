@@ -58,12 +58,12 @@ All the JS frame works Angular, Vue implemented React famous feature that is `Vi
 - [8 React conditional rendering methods](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e) -- with Mobx you can do conditional rendering with an additional a true/false in Model , where you can set model members very easily with 'Actions'
 
 ### Mobx for this UX site
+
 - Mobx Stores :  Stores for [UI State & Domain](https://mobx.js.org/best/store.html) stores
 - Mobx author [Mobx Bookstore without UI](https://github.com/mobxjs/mobx-state-tree/tree/master/packages/mst-example-bookshop/src/stores) ( without UI gives real abstraction of front-end app )
 - Mobx Todo example [on codesandbox](https://codesandbox.io/s/nZ26kGMD)
 - see on codesandbox 'Exercise CRUD ' application with Material-UI ( design this with Mobx with Model as driver, u get simpler code)[on codesandbox](https://codesandbox.io/s/48yrpl8l87)
 - get Indian JS guy, ask to extract  Left Menu and Layout from github oSS Codesandbox codebase for our project 
-
 - [Women who Design](https://womenwho.design/)
 ```
 Components ( how I asr will design abvoe women who Design site with Mobx )
