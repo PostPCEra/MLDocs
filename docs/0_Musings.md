@@ -16,3 +16,12 @@
 - Food : is next, centralized kitchens,monthly sub : the price of 2 meals/day cost from $10 (inclding labour cost) to half $5 to every person  
 - Work & Educatioin : Teaching Bots, automatic pay from future salary to institutions who trained 
 - health care : insurance for non-cardio diceses at 1/5 of today cost , since with 20 types of foods everything is controlled
+
+## Tech Industry the past decade :
+
+### Peak PC and the resulted old Tech gaints capped $200 Bilion market cap
+- Intel : [Peak PC in 2011 (365 M units)](https://www.statista.com/chart/5241/global-pc-shipments-since-2008/), decline of IT Data center Hardware of HP & Dell & IBM , non-Intel CPU Smart Phones
+- Cisco : rise of Cloud resulted in commodity Networking gear in Cloud center ( away from IT Data center Cisc     o Premium routers)
+- Oracle : rise of No-Software SalesFroce.com and the next 200 Saas companies (> $50 M ) forbid Orcle to expand into Mid-sized company IT departments
+- IBM : missed cloud to low price leader AWS, tie-Suit army of consultant culture prevented innovating/buying LOW cost SaaS companies , Missed Deep Learing self-driving space
+
