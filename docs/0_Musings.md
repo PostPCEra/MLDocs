@@ -33,16 +33,17 @@
 - Facebook :
 
 ### New Tech stars $100 Billion Club (market cap)
-- Nvidia :
-- SalesForce
-- Adobe :
-- Paypal :
+- Nvidia : GPUs and Embraced ML/DL self-driving cars
+- SalesForce : the Original NO-Software Co from 2005
+- Adobe : best adopted from PC Era to Cloud era
+- Paypal :  libarated from Ebay at right time to expand into rising PAYMENTS scene
 - Netflix : surpased all the old Media comapies Marketcap
 
 ### Raising stars $20 Billion Club (market cap)
 - Shopify :
 - Atlasian :
 - Dropbox :
+- Twitter :
 
 #### Ton of new SaaS guys $1 to $5 Billoion club
 - Twillo :
