@@ -25,3 +25,13 @@
 - Oracle : rise of No-Software SalesFroce.com and the "next 200 Saas companies $15/user/month subscripton" (> $50 M ) forbid " Orcle(chepest s/w package total cost $100K) to expand into Mid-sized company IT departments
 - IBM : missed cloud to low price leader AWS, tie-Suit army of consultant culture prevented innovating/buying LOW cost SaaS companies , Missed Deep Learing self-driving space
 
+### New Tech stars $100 Billion Club (market cap)
+- Nvidia :
+- Adobe :
+- Paypal :
+- Netflix : surpased all the old Media comapies Marketcap
+
+### Tech next $20 Billion Club (market cap)
+- Shopify :
+- Atlasian :
+- Dropbox :
