@@ -45,4 +45,14 @@
 - Dropbox :
 
 #### Ton of new SaaS guys $1 to $5 Billoion club
+- Twillo :
+
+### Rising VC funded
+- Algolia
+- Zapier
+- AirTable
+- Segment, HeapAnalytics, MixPanel
+
+### Fallen from Grace
+- GoPro , the other sports apparal
 - 
