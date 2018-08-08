@@ -22,6 +22,6 @@
 ### Peak PC and the resulted old Tech gaints capped $200 Bilion market cap
 - Intel : [Peak PC in 2011 (365 M units)](https://www.statista.com/chart/5241/global-pc-shipments-since-2008/), decline of IT Data center Hardware of HP & Dell & IBM , non-Intel CPU Smart Phones
 - Cisco : rise of Cloud resulted in commodity Networking gear in Cloud center ( away from IT Data center Cisc     o Premium routers)
-- Oracle : rise of No-Software SalesFroce.com and the next 200 Saas companies (> $50 M ) forbid Orcle to expand into Mid-sized company IT departments
+- Oracle : rise of No-Software SalesFroce.com and the "next 200 Saas companies $15/user/month subscripton" (> $50 M ) forbid " Orcle(chepest s/w package total cost $100K) to expand into Mid-sized company IT departments
 - IBM : missed cloud to low price leader AWS, tie-Suit army of consultant culture prevented innovating/buying LOW cost SaaS companies , Missed Deep Learing self-driving space
 
