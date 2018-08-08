@@ -19,19 +19,30 @@
 
 ## Tech Industry the past decade :
 
-### Peak PC and the resulted old Tech gaints capped $200 Bilion market cap
+### Peak PC and the resulted old Tech gaints each capped around $200 Bilion marketcap
 - Intel : [Peak PC in 2011 (365 M units)](https://www.statista.com/chart/5241/global-pc-shipments-since-2008/), decline of IT Data center Hardware of HP & Dell & IBM , non-Intel CPU Smart Phones
 - Cisco : rise of Cloud resulted in commodity Networking gear in Cloud center ( away from IT Data center Cisc     o Premium routers)
 - Oracle : rise of No-Software SalesFroce.com and the "next 200 Saas companies $15/user/month subscripton" (> $50 M ) forbid " Orcle(chepest s/w package total cost $100K) to expand into Mid-sized company IT departments
 - IBM : missed cloud to low price leader AWS, tie-Suit army of consultant culture prevented innovating/buying LOW cost SaaS companies , Missed Deep Learing self-driving space
 
+### Group 1: The Surviours, $1 Trillion GAFAM Club (market cap)
+- Google :
+- Apple :
+- Amazon :
+- Microsoft :
+- Facebook :
+
 ### New Tech stars $100 Billion Club (market cap)
 - Nvidia :
+- SalesForce
 - Adobe :
 - Paypal :
 - Netflix : surpased all the old Media comapies Marketcap
 
-### Tech next $20 Billion Club (market cap)
+### Raising stars $20 Billion Club (market cap)
 - Shopify :
 - Atlasian :
 - Dropbox :
+
+#### Ton of new SaaS guys $1 to $5 Billoion club
+- 
