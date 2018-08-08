@@ -15,6 +15,10 @@ sidebar_label: Python & Django
 
 ## Django
 
+
+### Django Project structure for MasteryLearn :
+cookiecutter with React and Material-UI : replace Redux with Mobx, it has pytest , docker, hot reload on browser .. see list on project TOP page . Here is [React js Components](https://github.com/anchpop/cookiecutter-django/tree/master/%7B%7Bcookiecutter.project_slug%7D%7D/%7B%7Bcookiecutter.project_slug%7D%7D/src/javascript/components)
+
 ### Books & Project code
 
 What Does It Take to [Be An Expert At Python](https://github.com/austin-taylor/code-vault/blob/master/python_expert_notebook.ipynb) -- [youtube](https://www.youtube.com/watch?v=7lmCu8wz8ro)
