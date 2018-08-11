@@ -57,3 +57,30 @@
 ### Fallen from Grace
 - GoPro , the other sports apparal
 - 
+
+
+## History to Humanity technological advancements: 
+
+Evidence indicates the wheel was created to serve as potter’s wheels around 3500 B.C. in Mesopotamia — [300 years before they were used for chariots](https://www.smithsonianmag.com/science-nature/a-salute-to-the-wheel-31805121/)
+- asr: wooden wheel was not made, because thre were no IRON Tools to chisil wooden wheel till 3000 BC
+
+```
+early farming (by Hunter-gatherer) 12,000 years ago
+
+Mesopotamian 5,500 years ago
+-pottery, bricks,Wheel
+-Writing, Math
+
+Empires : 3,000 years ago
+-Iron (weapons)
+-wind mills
+
+Nation-state : 250 years ago
+-Printing press
+-Coal,Steam Engine
+-Oil
+-Fertilizer
+-Electricity
+- IC chips
+```
+
