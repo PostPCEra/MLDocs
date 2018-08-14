@@ -80,9 +80,9 @@ Empires : 3,000 years ago
 Nation-state : 250 years ago
 -Printing press
 -Coal,Steam Engine
--Oil
+-Oil, plastics
 -Fertilizer
--Electricity
+-Electricity , Electic motor (convayer belt)
 - IC chips
 ```
 
