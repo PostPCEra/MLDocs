@@ -64,6 +64,8 @@
 Evidence indicates the wheel was created to serve as potter’s wheels around 3500 B.C. in Mesopotamia — [300 years before they were used for chariots](https://www.smithsonianmag.com/science-nature/a-salute-to-the-wheel-31805121/)
 - asr: wooden wheel was not made, because thre were no IRON Tools to chisil wooden wheel till 3000 BC
 
+[Early Framing](https://www.factmonster.com/dk/encyclopedia/history/early-farming)
+
 ```
 early farming (by Hunter-gatherer) 12,000 years ago
 
