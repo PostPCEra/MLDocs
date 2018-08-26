@@ -5,7 +5,7 @@
 
 - concept : The name of the game is to comeup with next Abstraction upward ( some piece of software is hard because 'Abstraction is still not right YET' ( JQuery to React JS)
 - React JS :there is no other simpler way to write UI, 50 years of programming languages proved it, that is 'programming is abstracting into ordered functions' ,that is what REACT JS is. Write UI in Java/C/Ruby/Python you come up same as React JS.
-- Mobx MST , design front-end without UI ( State and API to chnage Change)
+- Mobx MST , design front-end without UI ( put every thing in MODEL, have STATE = MODEL + operations on Model, API to chnage State). Look at Mobx author youtube video
 - people still feel React JS is hard : because 'UI Rendering' and 'Application State(store) management' are two distinct Abstrctions, people are mixing and mathicng the two, They need clearn separtion, people realisze 'mixed abstractions' is the root cause and embrace Mobx like Libraries to sovle it soon.
 
 - Deep Learning : TensorFlow , RL  
@@ -68,8 +68,10 @@ Evidence indicates the wheel was created to serve as potter’s wheels around 35
 
 ```
 early farming (by Hunter-gatherer) 12,000 years ago
+ - demostication of Plants & Animals
 
-Mesopotamian 5,500 years ago
+Mesopotamian civilization 5,500 years ago
+-the first concept of community
 -pottery, bricks,Wheel
 -Writing, Math
 
@@ -86,3 +88,4 @@ Nation-state : 250 years ago
 - IC chips
 ```
 
+  
