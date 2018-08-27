@@ -1,5 +1,6 @@
 #### Metaphors
--A metaphor is a figure of speech that directly refers to one thing by mentioning another for rhetorical effect. It may provide clarity or identify hidden similarities between two ideas. - https://en.wikipedia.org/wiki/Metaphor
+- A metaphor is a figure of speech that directly refers to one thing by mentioning another for rhetorical effect. It may provide clarity or identify hidden similarities between two ideas. - https://en.wikipedia.org/wiki/Metaphor
+- Metaphors are most frequently compared with similes. It is said, for instance, that metaphor is 'a condensed analogy' or 'analogical fusion' or that they 'operate in a similar fashion' or are 'based on the same mental process' or yet that 'the basic processes of analogy are at work in metaphor'
 
 
 #### Best of USA
@@ -10,3 +11,4 @@
 #### Pakistan selling part of Kashmir to China
 - on a agriculture filed , two parties are nieghbours to each side of piece of land. when our otherside neighbour is strong, we sell a piece of land to another stronger party to get the first neighbour into trouble.
 - this is human nature, so does what Pak does
+      
