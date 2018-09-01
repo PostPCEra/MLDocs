@@ -24,3 +24,15 @@
 ```
 - Have a Twitter dump into files with download , and use my best/popular tweets text, images and links
 - for a page like 'Autonous vehicles', we can have page like this will 'References' at the bottom http://gordonbrander.com/pattern/conversational-ui/
+- Have one page for all awesome quotes
+```
+Sapiens : 3 Revolutions : cognitive, agricultural, scientific (last one AI, starting 2050 where machine really write software)
+  - they never thought one day their anchestors  split atom, send man to moon etc..
+  
+ Intelligence is capacity for Learning ... coz all other facets of of intelligence can be achieved/manifested through leraring . ( my tweet )
+ 
+ Writing : Writig enabled human to have external memory  (gordon )
+ For 4 billion years, Evolution followed 2 simple principles : Random mutations and Natural selection. Now can human interventation to natural selection by doing delibarate selection
+ 
+ 
+```
