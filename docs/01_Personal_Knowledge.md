@@ -32,7 +32,11 @@ Sapiens : 3 Revolutions : cognitive, agricultural, scientific (last one AI, star
  Intelligence is capacity for Learning ... coz all other facets of of intelligence can be achieved/manifested through leraring . ( my tweet )
  
  Writing : Writig enabled human to have external memory  (gordon )
- For 4 billion years, Evolution followed 2 simple principles : Random mutations and Natural selection. Now can human interventation to natural selection by doing delibarate selection
+ 
+ Smalletst unit of living being : cell, Smallest unit of any material : atom, so editing of these are the last Frontiers of technological advnacement of any society ( aliens or otherwise) in universe:
+  - so : DNA Editing (CSPR), nano technology ( to edit atoms), the third part is : AI ( which is exponential learning system)
+  
+ For 4 billion years, Life on earth (Evolution) followed 2 simple principles : Random mutations and Natural selection. Now can human interventation to natural selection by doing delibarate selection
  
  
 ```
