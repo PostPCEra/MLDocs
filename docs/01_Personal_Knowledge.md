@@ -9,7 +9,7 @@
 - Have TOPIC content stored in YAML or similar format file, and let plug-in read and transform the content
 - for UI page: Have Anchor links on top of page
 ```
-   Learing , Feynmen , ...
+   Learing , Feynmen (get from Gordon) , How Learning Works
    
    Abstracition , Library/Framework , 
 ```
@@ -23,4 +23,4 @@
   Autonomus vehicles, Renewable Energy : use BNEF tweets of total EV cars, EV buses stats, Solar/wind stats
 ```
 - Have a Twitter dump into files with download , and use my best/popular tweets text, images and links
-
+- for a page like 'Autonous vehicles', we can have page like this will 'References' at the bottom http://gordonbrander.com/pattern/conversational-ui/
