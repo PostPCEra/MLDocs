@@ -6,4 +6,21 @@
 - We go with Pelican, so is [recommended by this review](http://maxpearl.us/review-of-python-open-source-static-site-generators.html). Gordon used his own satic site generator, it is on his github repos. For us Pelican should do it
 
 ##### Format
-- 
+- Have TOPIC content stored in YAML or similar format file, and let plug-in read and transform the content
+- for UI page: Have Anchor links on top of page
+```
+   Learing , Feynmen , ...
+   
+   Abstracition , Library/Framework , 
+```
+- for a concept like 'Intelligence is capacity for Learning' when hover (or click) show popup with full content , that way easy navigation, not loosig context of current page. Use JS Lib for easy popup ..
+
+- show images small as 100x100 px, when clicked show big popup image
+- echo of these will have their own page: 
+```
+  Bookself 
+  Stars, Evolution, World history 
+  Autonomus vehicles, Renewable Energy : use BNEF tweets of total EV cars, EV buses stats, Solar/wind stats
+```
+- Have a Twitter dump into files with download , and use my best/popular tweets text, images and links
+
