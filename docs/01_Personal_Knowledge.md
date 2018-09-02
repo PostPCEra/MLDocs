@@ -1,5 +1,6 @@
 ### Organising Personal Knowledge (notes)
 
+every thing aroud me life of some one . broadly curious, live & breath Edtech 
 ##### Tools 
 - Inspiration from Gordon: http://gordonbrander.com/pattern/
 - Static site generators : [two popular ones](https://www.fullstackpython.com/static-site-generator.html) a) Pelican based: [fullstack python site](https://github.com/mattmakai/fullstackpython.com). b) Mkdocs  based: example [Django REST site](http://www.django-rest-framework.org/#api-guide). In MkDocs based seems good for Programmig guides like above Django REST API, where one full page LEFT menu links are same page with # anchors.  
