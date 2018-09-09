@@ -15,7 +15,10 @@ because all these facets of Intelligence can be obtained through Learning
 Intelligence is one's capacity for logic, understanding, self-awareness, learning, emotional knowledge, reasoning, planning, creativity, and problem solving.
 
 In my whole life, I have known no wise people (over a broad subject matter area) who didn’t read all the time — none. Zero. — Charlie Munger
+
 The best way to achieve wisdom is to learn the big ideas that underlie reality. — Charlie Munger
+
+Start with first principles. Learn from low to high resolution. First, familiarize yourself with the central ideas of the study areas. Then, concentrate on the details. — @jordanpeterson
 
 Startup : "Have a bias toward action” Keep moving, learning & making progress. There’s no perfect Next Move - Kevin Systrom
 
