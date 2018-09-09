@@ -8,6 +8,19 @@ Nobody had any inkling that their descendants would one day walk on the moon, sp
 
 Three important revolutions shaped the course of history: The Cognitive Revolution (70,000 years ago), The Agricultural Revolution(12,000 years ago) and Scientific Revolution(500 years ago)
 
+Intelligence is the capacity for Learning. 
+
+because all these facets of Intelligence can be obtained through Learning 
+
+Intelligence is one's capacity for logic, understanding, self-awareness, learning, emotional knowledge, reasoning, planning, creativity, and problem solving.
+
+In my whole life, I have known no wise people (over a broad subject matter area) who didn’t read all the time — none. Zero. — Charlie Munger
+The best way to achieve wisdom is to learn the big ideas that underlie reality. — Charlie Munger
+
+Startup : "Have a bias toward action” Keep moving, learning & making progress. There’s no perfect Next Move - Kevin Systrom
+
+
+
 https://erenow.com/common/sapiensbriefhistory/2.html
 
 
