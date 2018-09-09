@@ -2,6 +2,15 @@
 
 Everything around me was someone's lifework| Intelligence is the capacity for learning| Entrepreneur at heart(CS grad), broadly curious. I live & breathe EdTech
 
+
+An Animal of No Significance : Just 6 million years ago, a single female ape had two daughters. One became the ancestor of all chimpanzees, the other is our own grandmother.
+Nobody had any inkling that their descendants would one day walk on the moon, split the atom, fathom the genetic code and write history books. 
+
+Three important revolutions shaped the course of history: The Cognitive Revolution (70,000 years ago), The Agricultural Revolution(12,000 years ago) and Scientific Revolution(500 years ago)
+
+https://erenow.com/common/sapiensbriefhistory/2.html
+
+
 ##### Tools 
 - Inspiration from Gordon: http://gordonbrander.com/pattern/
 - Static site generators : [two popular ones](https://www.fullstackpython.com/static-site-generator.html) a) Pelican based: [fullstack python site](https://github.com/mattmakai/fullstackpython.com). b) Mkdocs  based: example [Django REST site](http://www.django-rest-framework.org/#api-guide). In MkDocs based seems good for Programmig guides like above Django REST API, where one full page LEFT menu links are same page with # anchors.  
