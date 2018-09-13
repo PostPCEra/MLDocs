@@ -56,3 +56,10 @@ Great example set by Nagawara residents!
 
 strong truck for Debri, 3 wheeler with body extension for 'paper waste/plastic'
 ```
+--------
+ 
+ **from the TUI facebook page, it seems lots of Residents doing cleanup on thier own with TUI inspiration** 
+
+------
+Banning Paper & Plastic Ad boards in Bangalore : 
+http://www.newindianexpress.com/cities/bengaluru/2018/aug/07/all-kinds-of-flexes-posters-banned-in-bengaluru-for-one-year-1854413.html
