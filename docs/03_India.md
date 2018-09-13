@@ -35,5 +35,24 @@ It creates minimal disruption in the daily actions of everyone concerned (nobody
 
 ```
 
-   
-  Bhopal based org : https://twitter.com/ICleanBhopal
+Bhopal based org : https://twitter.com/ICleanBhopal
+
+----------
+A small committed volunteer team transforms an ugly spot on Bengaluru's Richmond Road. 
+
+This spot has festered here for years - it needed someone to take that first step and plunge in. 
+All it took was 2 hours of silent, hard work - what a transformation!
+
+https://www.facebook.com/media/set/?set=a.1954756611250251&type=3&__tn__=-UC-R
+
+-------------
+
+Citizens + BBMP  : https://www.facebook.com/media/set/?set=a.1951013428291236&type=3&__xts__[0]=68.ARAUmoWOgRmnJ5J2qhgt9CtxFIcUtcwXkAEaLymQ0eYFNFbOrXjsIWSsLivkEhWuSwgDnGBHW1dnrGEdl-m6vrW6K7he9iQN94UlDSFgZ4Bv_ZOjh3Cx3yA03zf9aVq-MmDfEqNDL8Fx6e5huapoJOqyTqckLMwO_--hkLnmkqTrinvfR32sTQ&__tn__=-UK-R
+```
+BBMP installed a new Semi-Underground Waste Drop-Box at this location - as part of a larger solution to create clean streets
+
+. When citizens and government work together,  real change happens.
+Great example set by Nagawara residents!
+
+strong truck for Debri, 3 wheeler with body extension for 'paper waste/plastic'
+```
