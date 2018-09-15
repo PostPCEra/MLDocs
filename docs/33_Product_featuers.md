@@ -23,7 +23,8 @@ sidebar_label: Product featuers & PRD
 - finish TEST at the end of session EVERY DAY ( should be strictly followed)
 - weekend Tests
 - peer grading
-- write in your own words what a FOR , IF means ; write a real world analogy ( version it & let them see 1 month old def of FOR , IF)
+- write in your own words what a FOR , IF means ; write a real world analogy ( version it & let them see 1 month old def of FOR , IF). 
+- 9/15/18 :see this FOR loop blanks example https://twitter.com/PostPCEra/status/1034166441782665219
 - on paper tests
 
 
@@ -38,6 +39,11 @@ sidebar_label: Product featuers & PRD
 -  Art of living , later Empower & Excell , and Summer fre Tution fixed time classes 
 
 ### 6. Voice Integration : TTS
+- 9/15/18: Google Text to Speech TTS
+-  Google Deep mind [AI drive Wavenet TTS better quality](https://www.theverge.com/2018/3/27/17167200/google-ai-speech-tts-cloud-deepmind-wavenet)
+- Listen to voices, u can very [Speed & Pitch combinatons](https://cloud.google.com/text-to-speech/)
+- Price: 1 Million chars free/month, [next Mil $16](https://cloud.google.com/text-to-speech/pricing) , -- [python API](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/texttospeech/cloud-client)
+----
 - Amazon voice
 - Sample audio read see how aduio feels [in a long page read](http://slideplayer.com/slide/10836541/)
  
