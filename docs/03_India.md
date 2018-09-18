@@ -1,6 +1,6 @@
 ## Charity work in India
 
-Model : what can you for your cournty ? 
+Model : what can you DO for your cournty ? 
 ```
  - what can you for your community/cournty ?
  - 100 hours/year Charity, sweat work, no money required .
@@ -32,6 +32,21 @@ Model : what can you for your cournty ?
  - need funds to privately fund a old 3 wheeler AUTO to haul grabage, or get municipal coordination ( like they do in bangalore)
 
 ```
+
+3. Identify big impact project across country
+```
+ - after 'garbage clean up', what are the big impact projects ?
+ - Mostly it shoule be about public places and general good.
+ 
+ - Kids Reading project? : like making Kids read 5 hours/week non-school books .
+ 
+ - Kids workout/walking project? : saturday/sunday 2 hours of physical exercise in public parks, 
+   gathered in groups 6 am to 12 noon.
+   
+ - Kids art/drawing projects? : can have lessons uploaded to a dedicated channel, let kids watch. Week end competation.
+ - Kids Chess club? : youtube channel,  weekend meet , in-person sessions , competations . Like one Anvith attended.
+```
+
 
 Have a cell phone app to upload photos, and a facebook social login account web site so people edit and add more descriptions
 Have profile by PIN code, so others can see same pics for that Pin code .
