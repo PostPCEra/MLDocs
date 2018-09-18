@@ -6,6 +6,8 @@ Model : what can you for your cournty ?
  - 100 hours/year Charity, sweat work, no money required .
  - 10 hours/months , that is 100 hours/year ( assume missing 2 months in a year)
  - 1/3 ownership: people sweat, government , Sponsors/Donors : each share 1/3 the cost of the project 
+ - the fact is : govenment do not have money to solve all the problems, even it did not have money 
+   to solve 10% of ALL the country problems. Like a middle class family Father do not have money to provide when his children need/wants.
  ```
  
 ### Projects
