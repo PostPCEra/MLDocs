@@ -40,7 +40,7 @@ Model : what can you DO for your cournty ?
  
  - Kids Reading project? : like making Kids read 5 hours/week non-school books .
  
- - Kids workout/walking project? : saturday/sunday 2 hours of physical exercise in public parks, 
+ - Kids workout/walking project? : saturday/sunday 2 hours of physical exercise in public parks. VVIT collage grounds .
    gathered in groups 6 am to 12 noon.
    
  - Kids art/drawing projects? : can have lessons uploaded to a dedicated channel, let kids watch. Week end competation.
