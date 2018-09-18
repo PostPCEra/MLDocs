@@ -1,5 +1,29 @@
 ### Charity work in India
 
+
+#### Projects
+--------------------
+1. Browsable ,Centralized  storage for 'Clenup this' posts
+```
+ - why: 
+ - a) so all 'cleanup posts' are in one place by pincode. When people can search and see STATUS they can Really around it
+ - b) makes it easy to get financial sponsors/donors once people see 'clean up' stats for their  STATE or District .
+ 
+ -  store above posts from twitter posts into a YMAL format file with : url, location, data posted, who posted
+ -  also gather from facebook also . see Ugly indian FB account
+ -  Django, Mobx web site. Use ReactRocks and React component sites to grab 'ready to use UI components/libs'
+ -  Involve, IIT/NIT and other collage students in development at later stage .
+```
+
+2. Involve Reputable people go get bigger community
+```
+ - talk and get input from people such as : Veeramachinani ,  Ugly Indian Bangalore, etc .. 
+ - see if they can take part , indirectly if not diretctly
+ - need to solve a problem in a city like Vijayawada/Guntur : need to talk to municipal ex. employees who can advise 
+ - need funds to privately fund a old 3 wheeler AUTO to haul grabage, or get municipal coordination ( like they do in bangalore)
+
+```
+
 Have a cell phone app to upload photos, and a facebook social login account web site so people edit and add more descriptions
 Have profile by PIN code, so others can see same pics for that Pin code .
 Have statuses of case number :
