@@ -1,4 +1,10 @@
-### Technical components
+##Technical components
+
+#### Django & Mobx/React Setup : 
+--------------
+
+- look for that Editor Notes, black theam ..
+
 
 - start with this  Django + React stack 
 https://wsvincent.com/django-rest-framework-react-tutorial/
@@ -18,7 +24,7 @@ https://wsvincent.com/django-rest-framework-authentication-tutorial/
 https://wsvincent.com/django-best-practices/
 
 
-### Python Tutor : 
+#### Python Tutor : 
 --------------
 - so many people helped/advised [from Security & other perspecives](https://github.com/pgbovine/OnlinePythonTutor) : Peter Norvig, Guido van Rossum so truasure this because it is the BEST LEARNING Experience solicited from so many people 
 - v5-Unity [Developer notes ](https://github.com/pgbovine/OnlinePythonTutor/blob/master/v5-unity/README.txt) 
