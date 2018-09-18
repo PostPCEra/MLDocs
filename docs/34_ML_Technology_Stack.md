@@ -12,8 +12,8 @@ version 0.1 :
     
   TTS Lessons:
      - find that black scrren editor ACE editor notes by searching OUR repo
-     - have  Django & Mobx as components 
-     - 
+     - have  Django & Mobx as components . Mobx gives simplicity so no 'DidComponentMount' etc.. nonsense of React js
+     - Django : have simple Django & React as shown below, replace React with Mobx . Django-cookie-cutter is later versoions 
 
 ```
 
