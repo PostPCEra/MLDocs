@@ -1,7 +1,14 @@
-### Charity work in India
+## Charity work in India
 
-
-#### Projects
+Model : what can you for your cournty ? 
+```
+ - what can you for your community/cournty ?
+ - 100 hours/year Charity, sweat work, no money required .
+ - 10 hours/months , that is 100 hours/year ( assume missing 2 months in a year)
+ - 1/3 ownership: people sweat, government , Sponsors/Donors : each share 1/3 the cost of the project 
+ ```
+ 
+### Projects
 --------------------
 1. Browsable ,Centralized  storage for 'Clenup this' posts
 ```
