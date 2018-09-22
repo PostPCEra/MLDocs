@@ -7,6 +7,7 @@
 - Ace Editor [JSFiddle simple one](http://jsfiddle.net/Yzj6G/)
 
 - Add the following code (of above Typewriter Fidle) to above Ace Editor JS Fiddle in the 'JS code window' , TypeWriter effect (with delays etc.. ) start working on the Ace Editor filed .
+- This whole working thing is saved as my own fiddle at http://jsfiddle.net/vision/we3qs98k/
 ```
 Add this url to the Library list in the Left menu.
 // https://unpkg.com/typewriter-effect@2.3.1/dist/core.js
