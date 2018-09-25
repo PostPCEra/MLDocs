@@ -1,4 +1,40 @@
 
+
+## Task list 
+```
+- 1. Google TTS integration
+- 2. Bitbucket git setup : do only v5-unity dir
+- 3. Make Lesson content
+   
+ - 4. Site up & running on Digital Ocean
+ - 5. Discourse Forum software
+ - 6. 
+
+```
+#### 3. Make Lesson content
+```
+ 1. see Programirz & other sites for content
+     - what is programming : series of steps , rectangle 5 th grade math problem (area = length * width)
+     - show a english paragraph. one with lots of spaces between words, words broken in lines , good one . A programmer's wife.
+     - ask to wrong assignments or statements 
+ 2. what is it, list of fruits , show list of names . first item in fruit list : apple ,  fruits[1] .. fruits[3]
+     apple
+     oragne
+     banana
+     
+ 3. Block of code : show two sections (/w IF else..) of same english text one with {  } , the other with identation , python chose 2nd one
+     
+```
+
+#### 8. Helping others ( colloboration )
+```
+ - Teacher/Leaner model 
+ - use Pturor collob feature,  have   'stage 1',  'state 2' , buttons let Teacher save them at diff points in time
+ - so Learner can  replay to see how  the code correciton progressed. Learner can add comment text as he understand 
+ - Learner need to write a small write up of problem so Teacher can look and understand before helping .
+```
+
+
 ## Kitchen Sink Code
 
 #### 1. Ace Editor & Typewriter lib integration 
