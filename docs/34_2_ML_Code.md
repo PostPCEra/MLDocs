@@ -17,7 +17,7 @@
      - what is programming : series of steps , rectangle 5 th grade math problem (area = length * width)
      - show a english paragraph. one with lots of spaces between words, words broken in lines , good one . A programmer's wife.
      - ask to wrong assignments or statements 
- 2. what is it, list of fruits , show list of names . first item in fruit list : apple ,  fruits[1] .. fruits[3]
+ 2. only WHILE loop ( FOR never). what is it, list of fruits , show list of names . first item in fruit list : apple ,  fruits[1] .. fruits[3]
      apple
      oragne
      banana
