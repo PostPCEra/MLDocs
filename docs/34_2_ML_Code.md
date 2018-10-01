@@ -45,6 +45,22 @@
   - [example code using Text file as INPUT](https://github.com/PostPCEra/python-docs-samples/blob/master/texttospeech/cloud-client/synthesize_file.py). 
   - [Non file example code](https://github.com/PostPCEra/python-docs-samples/blob/master/texttospeech/cloud-client/synthesize_text.py)
   - go one dir up to get all sample python TTS examples ..
+  
+  [Install & Run steps](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/texttospeech/cloud-client)
+  ```
+  Install Dependencies
+
+$ git clone https://github.com/GoogleCloudPlatform/python-docs-samples.git
+Install pip and virtualenv if you do not already have them. You may want to refer to the Python Development Environment Setup Guide for Google Cloud Platform for instructions.
+
+Create a virtualenv. Samples are compatible with Python 2.7 and 3.4+.
+
+$ virtualenv env
+$ source env/bin/activate
+Install the dependencies needed to run the samples.
+
+$ pip install -r requirements.txt
+  ```
 
 #### 1. Ace Editor & Typewriter lib integration 
 
