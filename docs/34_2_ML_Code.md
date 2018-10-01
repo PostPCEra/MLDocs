@@ -37,6 +37,12 @@
 
 ## Kitchen Sink Code
 
+
+#### 0. Google Text to Speech
+
+[Google TTS](https://cloud.google.com/text-to-speech/?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-skws-all-all-trial-p-dr-1003905&utm_content=text-ad-none-any-DEV_c-CRE_291220387632-ADGP_Hybrid+%7C+AW+SEM+%7C+SKWS+%7C+US+%7C+en+%7C+PHR+~+ML%2FAI+~+Speech+API+~+Text+to+Speech+~+Text+To+Speech-KWID_43700036257568087-kwd-394896217833&utm_term=KW_text%20to%20speech-ST_Text+To+Speech&gclid=Cj0KCQjwi8fdBRCVARIsAEkDvnJ28LfSkX7KLq7Vkoogkga8qUeXsQmYz87PNxkPV0mWqr1kyP-e6hYaAgvhEALw_wcB&dclid=CJn22bT15N0CFQasZAodqdIJOA)
+  - where is python API Github page ?
+
 #### 1. Ace Editor & Typewriter lib integration 
 
 - [Typewriter lib](https://safi.me.uk/typewriterjs/) working on a "DIV" on [Jsfille](https://jsfiddle.net/mv612vrf/1702/?utm_source=website&utm_medium=embed&utm_campaign=mv612vrf)
