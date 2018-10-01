@@ -42,7 +42,8 @@
 
 [Google TTS](https://cloud.google.com/text-to-speech/?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-skws-all-all-trial-p-dr-1003905&utm_content=text-ad-none-any-DEV_c-CRE_291220387632-ADGP_Hybrid+%7C+AW+SEM+%7C+SKWS+%7C+US+%7C+en+%7C+PHR+~+ML%2FAI+~+Speech+API+~+Text+to+Speech+~+Text+To+Speech-KWID_43700036257568087-kwd-394896217833&utm_term=KW_text%20to%20speech-ST_Text+To+Speech&gclid=Cj0KCQjwi8fdBRCVARIsAEkDvnJ28LfSkX7KLq7Vkoogkga8qUeXsQmYz87PNxkPV0mWqr1kyP-e6hYaAgvhEALw_wcB&dclid=CJn22bT15N0CFQasZAodqdIJOA)
 
-  - [example code](https://github.com/PostPCEra/python-docs-samples/blob/master/texttospeech/cloud-client/synthesize_text.py)
+  - [example code using Text file as INPUT](https://github.com/PostPCEra/python-docs-samples/blob/master/texttospeech/cloud-client/synthesize_file.py). 
+  - [Non file example code](https://github.com/PostPCEra/python-docs-samples/blob/master/texttospeech/cloud-client/synthesize_text.py)
   - go one dir up to get all sample python TTS examples ..
 
 #### 1. Ace Editor & Typewriter lib integration 
