@@ -39,13 +39,17 @@ Interacting
 For our ML Python Course learing:
   - we comeup with similar A1 .. C2 6 six levels
   - for Column headings : we wil have ( see more from programirz etc.. )
-       -------------- |------------- | -------------- | ----------- | ---------- | ----------- | ----------- |
-                          A1 Level   | A2             | B1          | B2 Level   | C1          |   C2        |     
-       -------------- |------------- | -------------- | ----------- | ---------- | ----------- | ----------- |                 
-     variables        |
-     Loops            |  single loop |  nested loops  | combination loops
-     Data structures  |  List        |  Dictionalry   | Class
+       -------------- |--------------------| -------------- | ----------- | ---------- | ----------- | ----------- |
+                          A1 Level         | A2             | B1          | B2 Level   | C1          |   C2        |     
+       -------------- |------------------- | -------------- | ----------- | ---------- | ----------- | ----------- |                 
+     Basics           | variables,data types| 
+     Control Flow     | IF ..Else, Loops  |nested loops    | combination loops
+     Functions        | parameters        | Recursion      |  
+     FLow Chart       | simple one        |
+     Data structures  | List              | Dictionalry    |  
+     Object & Class   | Object            | Class    |  
 ```
+[programiz](https://www.programiz.com/python-programming#tutorial) <-- refer to this to get more details 
 
 
 ### 3.2 Exercises & Tests
