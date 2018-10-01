@@ -27,6 +27,21 @@ sidebar_label: Product featuers & PRD
 - 9/15/18 :see this FOR loop blanks example https://twitter.com/PostPCEra/status/1034166441782665219
 - on paper tests
 
+- 10/1/18: A CEFR-like approach to measure programming proficiency https://science.raphael.poss.name/programming-levels.html tweet https://twitter.com/PostPCEra/status/1046880352428380160
+```
+Writing
+Understanding
+Interacting
+(A1, A2, B1, B2, C1, C2) : testable milestones in language acquisition
+
+For our ML Python Course learing:
+  - we comeup with similar A1 .. C2 6 six levels
+  - for Column headings : we wil have ( see more from programirz etc.. )
+     variables
+     Loops  :    single loop |  nested loops | combination loops
+     Data structures
+```
+
 
 ### 3.2 Exercises & Tests
 - we need this asap. Khan academy have a frame work to create Tests? see others 
