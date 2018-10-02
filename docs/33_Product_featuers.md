@@ -75,6 +75,7 @@ For our ML Python Course learing:
 - Sample audio read see how aduio feels [in a long page read](http://slideplayer.com/slide/10836541/)
  
 ### 7. animation 
+- 9/29 : Animatron web site looks [simple to make Lesson videos](https://www.animatron.com/)
 - see old research on animation 
  
  ## Version 2 features
