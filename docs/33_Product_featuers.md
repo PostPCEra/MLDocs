@@ -15,6 +15,8 @@ sidebar_label: Product featuers & PRD
 - let it work with above changes on Flask, then make it work on Django
 
 ### 2. User Registration & Login
+- 10/1: just have a input Text box to choose a unique ID and click submit, then onwards <UniqueID> is appened to URL
+  and file saving etc.. is handled with hat <UniqueID>
 - Provising & config of Django with Ansible (from the git repo). No Docker things at this time
 - selection of User registration (China onlineJudge codebase, combine this with Django allauth for Social Login)
 
