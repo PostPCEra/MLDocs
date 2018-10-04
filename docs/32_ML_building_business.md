@@ -7,10 +7,13 @@ sidebar_label: ML building business
 ## Mastery Learn
 
 ### What problems we r solving
+We all know Online learing has many advatages over instructor-led learning such as any time, any where learing combined with almost infinate scalability to millions of users. But it lacks few key benefits of instructor-led learing such as a) Periodic Home work assignments and grading b) peer student support and inspiration c) expert intervetion when student is stuck. We are tying build this online learning experience that combines the 'Best of both worlds'.
+
+Why We Need [More Than ‘Learn At Your Own Pace’](https://blog.brainstation.io/why-we-need-more-than-learn-at-your-own-pace/)
 
 ### How ? w/ unique Pedagogy
 
-
+ -- see Online judge code base in separate file 
 
 ## Building Business
 
