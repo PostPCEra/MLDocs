@@ -15,6 +15,21 @@ Why We Need [More Than ‘Learn At Your Own Pace’](https://blog.brainstation.i
 
  -- see Online judge code base in separate file 
 
+###  productivity tips [--by @sama](http://blog.samaltman.com/productivity)
+
+```
+WHAT YOU WORK ON
+-have strong beliefs about world
+-You have to "pick right problem &do the work"
+-Learn that U can learn anything U want
+
+PRIORITIZATION
+-Lists of what to accomplish each year, each month &day
+
+PHYSICAL FACTORS
+- Sleep ($3k bed, if u can afford)
+- Food (16 hours fasting)
+```
 ## Building Business
 
 ### Business Models
