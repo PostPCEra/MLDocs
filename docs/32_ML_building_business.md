@@ -40,7 +40,7 @@ PHYSICAL FACTORS
 | Date | Title | Notes |
 | ------- | -----| ----  | 
 | Mastery Learn  | -----| Basic course is free. for Coaching towards a certificate (find it), users pay a fee into a Escrow account, If they don't pass in 2 to 3 attempts, 100% fee is released from Escrow Account  | 
-| 10/2018 | Palu G If you find yourself saying "I've been waiting for someone to start this startup for years," [it's a sign you should](https://twitter.com/paulg/status/1045661902364389381) | 
+| 10/2018 | Palu G | If you find yourself saying "I've been waiting for someone to start this startup for years," [it's a sign you should](https://twitter.com/paulg/status/1045661902364389381) | 
 
 | Lambda  | -----| ------  | 
 | 6/2018 | Income sharing Aggrement | [17% of Salary for 24 months](https://www.youtube.com/watch?v=IGh5-g4KR1Q), only when salary >= $50K . <br/>It works out as minium pay back $17,000 ($50k + $50K = $100k and 17% of it). Max you pay $30K (for high paying jobs of $100K/year). When there are Job gaps or <$50k payment stops | 
