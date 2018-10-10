@@ -50,7 +50,7 @@ PHYSICAL FACTORS
 | 2/2018 | No Staff, Peer Learning | 0. We charge 25% of first year salary from hiring company, nothing for the candidate <br/> 1. Experienced & new programmers come to RC from around the world to spend one, six, or twelve weeks in New York focused on getting better at programming. <br/>2. The primary educational value of RC is peer-to peer. We don’t have teachers or a curriculum <br/>3. Recursers work on whatever they’re most interested in, teaching and learning from each other |
 | 2/2018 | [about page](https://www.recurse.com/about)  | 4. Batches start every six weeks . <br/> 5. We started RC in 2011, and for the first several years, we mistakenly organized our company into two divisions: education and recruiting <br/> 6. We charge 25% of first year salary from hiring company, nothing for the candidate  |
 | **Repl.it**  | -----| ------  |
-| 9/2018| The Journey | [YC Journey](https://repl.it/site/blog/yc) <br/> [ how IDE was developed](https://repl.it/site/blog/ide) | 
+| 9/2018| The Journey | [YC Journey](https://repl.it/site/blog/yc) : 3 rejections (no interviews), struggles to get Revenue, API services sell to institutes  <br/> [ how IDE was developed](https://repl.it/site/blog/ide) | 
 
 
 ### How to get users
