@@ -37,6 +37,7 @@ PHYSICAL FACTORS
 **Models**
 
 **Business Model comparision**
+
 | Date | Title | Notes |
 | ------- | -----| ----  | 
 | 10/2018 | ML Vs. Repl.it | Repl.it focus is provide 'Cloud CODE Execution environment' for ALL 20 Languages <br/> 2. There is not much content to Learn, you need to provide own content <br/> 3. for ML it is one language, emphasis on 'Program Logic mastery' (not many languages)|
