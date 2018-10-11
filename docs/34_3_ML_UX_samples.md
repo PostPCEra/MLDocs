@@ -1,6 +1,6 @@
 ## List various UI & UX samples for inspiration 
 
-#### 1. Folder and File menu
+### 1. Folder and File menu
 - use [codesandbox File menu](https://codesandbox.io/s/kyl0z8yv5?from-embed) as it works well and also good UX.
 - code is on [Github](https://github.com/CompuIves/codesandbox-client) -- find which soruce FILE related to "File" menu on scren
 
@@ -8,7 +8,18 @@
 - Sandbox [Client Code ](https://github.com/CompuIves/codesandbox-client/tree/master/packages/app/src/app) as per [this article](https://hackernoon.com/announcing-codesandbox-2-5-be767d15ffd)
 - if getting complex get HTML from page "View source" and copy UI and FUncitons.
 
-#### 2. single page FAQ or explantation page 
+### 2. Folder and File menu 
+##### 2.1 Simple File/Folder Menu
+- This is Codesandbox Iframe, so it same as above [complex Gitcode base](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+
+##### 2.2 Tabs for Code Editor (Fusion charts)
+- top & bottom TABS. Good Top tabs better than plain tabs we saw every where 
+- Bottom tabs we can use to as button faces of different versions of code. **such as Ver 1 , Ver 2, Ver 3**
+- 'Explore Hover' shows nice compact MENU Options, we can you to show various ML menu options
+- FONT size is good, Black theam shows good contrast colour for various Python KEYwords
+- screen shot: ![alt text](Top-Tottom-Tabs.png)
+
+#### 6. single page FAQ or explantation page 
 - Recurse FAQ page with [Right hand menu](https://www.recurse.com/manual#sec-environment) : View soruce shows so many &nbsp; etc.. take as it .
 - Replace hard code with Mobx/React and generate as Static page. Or use some simple templage language like JINJA
 
