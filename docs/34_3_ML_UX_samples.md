@@ -17,12 +17,12 @@
 - Bottom tabs we can use to as button faces of different versions of code. **such as Ver 1 , Ver 2, Ver 3**
 - 'Explore Hover' shows nice compact MENU Options, we can you to show various ML menu options
 - FONT size is good, Black theam shows good contrast colour for various Python KEYwords
-- screen shot: ![alt text](Top-Tottom-Tabs.png)
+- screen shot: ![alt text](Top-Bottom-Tabs.png)
 
-#### 6. single page FAQ or explantation page 
+### 6. single page FAQ or explantation page 
 - Recurse FAQ page with [Right hand menu](https://www.recurse.com/manual#sec-environment) : View soruce shows so many &nbsp; etc.. take as it .
 - Replace hard code with Mobx/React and generate as Static page. Or use some simple templage language like JINJA
 
-#### 7.Chat vs. Forum 
+###  7. Chat vs. Forum 
 - if Forum then Discourse is way to go. Mostly this will do it. If we need CHAT then seems Zulip is one good one
 - Recurse is using Zulip (said on above page), also Zulip mentiond it on Zulip web site
