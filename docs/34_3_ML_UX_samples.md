@@ -7,6 +7,7 @@
 - [simple Menu & Caption line on Top](https://javascriptvisualizer.com/?code=function%20bubbleSort%20%28arr%29%20%7B%0A%20%20var%20length%20%3D%20arr.length%3B%0A%20%20var%20swapped%3B%0A%0A%20%20do%20%7B%0A%20%20%20%20swapped%20%3D%20false%3B%0A%0A%20%20%20%20for%20%28var%20i%20%3D%200%3B%20i%20%3C%20length%3B%20i%2B%2B%29%20%7B%0A%20%20%20%20%20%20if%20%28arr%5Bi%5D%20%3E%20arr%5Bi%20%2B%201%5D%29%20%7B%0A%20%20%20%20%20%20%20%20var%20temp%20%3D%20arr%5Bi%5D%3B%0A%20%20%20%20%20%20%20%20arr%5Bi%5D%20%3D%20arr%5Bi%20%2B%201%5D%3B%0A%20%20%20%20%20%20%20%20arr%5Bi%20%2B%201%5D%20%3D%20temp%3B%0A%20%20%20%20%20%20%20%20swapped%20%3D%20true%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%0A%20%20%7D%20while%20%28swapped%29%3B%0A%0A%20%20return%20arr%3B%0A%7D%0A%0AbubbleSort%28%5B5%2C19%2C1%5D%29%3B)
 - Sandbox [Client Code ](https://github.com/CompuIves/codesandbox-client/tree/master/packages/app/src/app) as per [this article](https://hackernoon.com/announcing-codesandbox-2-5-be767d15ffd)
 - if getting complex get HTML from page "View source" and copy UI and FUncitons.
+- **another Option:** use some thing like Jquery FILE/DIr, later see if INd consultant can figure out 'FILE/DIR Menu' of [Stackblitz to extract FILE/DIR code(https://stackblitz.com/edit/react-zbdtps?file=index.js) 
 
 ### 2. Folder and File menu 
 ##### 2.1 Simple File/Folder Menu
