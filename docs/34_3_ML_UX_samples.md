@@ -70,3 +70,8 @@ return (
             </div>
 
 ```
+###  11. general React App : Elegent designs 
+ - Githunt app : [website](https://kamranahmed.info/githunt/)  [repo](https://github.com/kamranahmedse/githunt/blob/master/src/components/filters/language-filter/index.js) 
+ - so much to learn from this simple React App design (by the same author who did '2018 Webdeveloper' image charts )
+ 
+ 
