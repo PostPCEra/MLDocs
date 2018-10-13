@@ -28,3 +28,8 @@
 ###  7. Chat vs. Forum 
 - if Forum then Discourse is way to go. Mostly this will do it. If we need CHAT then seems Zulip is one good one
 - Recurse is using Zulip (said on above page), also Zulip mentiond it on Zulip web site
+
+###  8. React ACE Editor Application github repos
+- when we need two pane ACE Editors with REACT.js , we can use this ready to use Repo
+- For 'Option configuration' we can have it as popup Model window or as Sidebar as shown here : [Sidebar](https://black.now.sh/?version=stable&state=_Td6WFoAAATm1rRGAgAhARYAAAB0L-Wj4ARXAmpdAD2IimZxl1N_WlkPinBFoXIfdFTaTVkGVeHShArYj9yPlDvwBA7LhGo8BvRQqDilPtgsfdKl-ha7EFp0Ma6lY_06IceKiVsJ3BpoICJM9wU1VJLD7l3qd5xTmo78LqThf9uibGWcWCD16LBOn0JK8rhhx_Gf2ClySDJtvm7zQJ1Z-Ipmv9D7I_zhjztfi2UTVsJp7917XToHBm2EoNZqyE8homtGskFIiif5EZthHQvvOj8S2gJx8_t_UpWp1ScpIsD_Xq83LX-B956I_EBIeNoGwZZPFC5zAIoMeiaC1jU-sdOHVucLJM_x-jkzMvK8Utdfvp9MMvKyTfb_BZoe0-FAc2ZVlXEpwYgJVAGdCXv3lQT4bpTXyBwDrDVrUeGOv9m6arhq1vG7gWPofCZzxDVx0XQ0KCGfeks9pc70MAN8zhKZ6WetjhhiFk0PFeo7NMDYe-NfEPd456oNx_KEYz45C3iEE079hLkn6kCYcxJhK3e2MeoPjq1ltI_IjvN_GUYGOGAcLksDFVlmUi-Qk0VTjDc_gzn9wl5Zd1DEs95RC0tBpR1sWvObLHIBZfrKPs047wg-CyszAR-Nh623eoU53wQRTDDzY9w3nG2rVxJNJto5ujL2ARY2w0c0IKUV_WC8HaFUy521komcC_6bE7Uq25H0d__LSj8qaCaFAO9LqMcso3A7tsEpx4-UmXBrUcHibDMQBXm0D1vGkQ8eUljUnR0TMF9NVWy5ntN1T2br3qAWqQK44I8H6kI00gZXWfQIfYHALh7cqfgti0L9Xy3Us2cCsgvD2OioBjVncxYkBm4Y5hVV5g63AAAAAECQA3Mo3QbFAAGGBdgIAACmbK8uscRn-wIAAAAABFla) and it's [github file](https://github.com/jpadilla/black-playground/blob/master/web/components/sidebar.js)
+- 
