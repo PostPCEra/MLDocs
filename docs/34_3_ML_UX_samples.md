@@ -73,5 +73,7 @@ return (
 ###  11. general React App : Elegent designs 
  - Githunt app : [website](https://kamranahmed.info/githunt/)  [repo](https://github.com/kamranahmedse/githunt/blob/master/src/components/filters/language-filter/index.js) 
  - so much to learn from this simple React App design (by the same author who did '2018 Webdeveloper' image charts )
+ - Main [index.js](https://github.com/kamranahmedse/githunt/blob/master/src/index.js) , [app.js](https://github.com/kamranahmedse/githunt/blob/master/src/app.js) . This has 'router' and 'redux' dir . we may use MobX which results in no 'redux'
+ - this is [global.css](https://github.com/kamranahmedse/githunt/blob/master/src/global.css) , the other file [index.js](https://github.com/kamranahmedse/githunt/blob/master/src/index.js) has BOOTSTRAP Imports and Each one of FILTER components has have their own [style.css] and FILTER dir has another top level style.css
  
  
