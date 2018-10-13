@@ -70,6 +70,12 @@ return (
             </div>
 
 ```
+
+###  9. Showing CODE Diff to user : Review of 'Mentor' work to 'Learner' ( or call Student)
+- When Student submit assignments, 'Mentor' do multiple 'code improvement' modifications and save at a step wise code changes, so student can 'review & understand' each code change indiviudally instead of seeing all changes once (if so student get confused with so many changes at one time). 
+- when user Mouse over 'version numbers' at bottom , she will see 'code diff' changes [web page](https://babeljs.io/repl#?babili=true&browsers=&build=&builtIns=false&spec=false&loose=false&code_lz=MYewdgzgLgBApjAvDASnAhsKA6YAnDKOAUQBs4BbOMKAbgCh7hT0IIYAZASwGs4AhAK5Qo4eAA8iYACbs0mHAGEQFAA7hqsAN70YMUJCh5BWEHgAUqvCFUQAlDB169EQargWrN-w2cwoABZcENjQ6ERIjjCkvHDSAFwwAGbopBAIAL6-MBmMegQyHuYOTs5cSTDmgcGhUOFw2DF80iW6fjAEUIJ4YDAA5ACaIILRsdL-QSF92Xq5bflwXT3w5vPOfQBGwqJgfQA0a3paMOCKMcA8icVIAHwTNelQAMp1RObHTXGJRoKZDhkHdr9bh8PprOzZXIZIA&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=true&sourceType=module&lineWrap=true&presets=es2015%2Creact%2Cstage-2%2Cstage-3%2Cbabili&prettier=true&targets=Node-6.12&version=6.26.0&envVersion=)
+- The above 'code diff' screen is [Ace Diff](https://ace-diff.github.io/ace-diff/) and the [repo](https://github.com/ace-diff/ace-diff)
+
 ###  11. general React App : Elegent designs 
  - Githunt app : [website](https://kamranahmed.info/githunt/)  [repo](https://github.com/kamranahmedse/githunt/blob/master/src/components/filters/language-filter/index.js) 
  - so much to learn from this simple React App design (by the same author who did '2018 Webdeveloper' image charts )
